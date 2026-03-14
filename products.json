@@ -1266,7 +1266,7 @@
     "descripcion": "Braga superior en tela drill, manga larga, con cinta reflectiva",
     "tallas": "S/M/L/XL/2XL",
     "precio": 29.9,
-    "imagen": "BRAGA SUP.png"
+    "imagen": "BRAGA-SUP.png"
   },
   {
     "codigo": "BRAGA SUP.2",
@@ -1275,7 +1275,7 @@
     "descripcion": "Braga superior 100%, manga larga, con cinta reflectiva",
     "tallas": "S/M/L/XL/2XL",
     "precio": 32.49,
-    "imagen": "BRAGA SUP.2.png"
+    "imagen": "BRAGA-SUP2.png"
   },
   {
     "codigo": "BRAGA IGNIFUGA",
@@ -4119,7 +4119,7 @@
     "descripcion": "Llave combinada Stanley, 16 pulgadas",
     "tallas": "",
     "precio": 11.9,
-    "imagen": "UNLLAVE#16.png"
+    "imagen": "UNLLAVE16.png"
   },
   {
     "codigo": "FE86839",
