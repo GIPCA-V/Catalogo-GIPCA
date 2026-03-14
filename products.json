@@ -6,7 +6,7 @@
     "descripcion": "Zapato en micropiel color negro repelente al agua. Suela poliuretano inyectada, puntera metálica con recubrimiento dieléctrico, plantilla anatómica, forro interno air mesh antitranspirable.",
     "tallas": "35-46",
     "precio": 22.84,
-    "imagen": "1010"
+    "imagen": "1010.png"
   },
   {
     "codigo": "1015",
@@ -15,7 +15,7 @@
     "descripcion": "Zapato micropiel negro forro air mesh antibacteriano, puntera de composite.",
     "tallas": "35-46",
     "precio": 22.84,
-    "imagen": "1015"
+    "imagen": "1015.png"
   },
   {
     "codigo": "2021",
@@ -24,7 +24,7 @@
     "descripcion": "Botín en micropiel color negro repelente al agua. Suela poliuretano inyectada, puntera metálica con recubrimiento dieléctrico, plantilla anatómica, forro interno air mesh antitranspirable.",
     "tallas": "35-46",
     "precio": 22.84,
-    "imagen": "2021"
+    "imagen": "2021.png"
   },
   {
     "codigo": "2022",
@@ -33,7 +33,7 @@
     "descripcion": "Botín en micropiel color café repelente al agua. Suela poliuretano inyectada, puntera metálica con recubrimiento dieléctrico, plantilla anatómica, forro interno air mesh antitranspirable.",
     "tallas": "35-46",
     "precio": 22.84,
-    "imagen": "2022"
+    "imagen": "2022.png"
   },
   {
     "codigo": "2023",
@@ -42,7 +42,7 @@
     "descripcion": "Botín en micropiel color negro repelente al agua. Suela poliuretano inyectada, puntera metálica con recubrimiento dieléctrico, plantilla anatómica, forro interno air mesh antitranspirable.",
     "tallas": "35-46",
     "precio": 33.5,
-    "imagen": "2023"
+    "imagen": "2023.png"
   },
   {
     "codigo": "3043",
@@ -51,7 +51,7 @@
     "descripcion": "Bota media caña, vaqueta grabada en cuero graso, forro interno air mesh. Suela poliuretano inyectada, puntera metálica con recubrimiento dieléctrico, plantilla anatómica.",
     "tallas": "35-46",
     "precio": 38.44,
-    "imagen": "3043"
+    "imagen": "3043.png"
   },
   {
     "codigo": "1051",
@@ -60,7 +60,7 @@
     "descripcion": "Botín, piel tipo Nobuck marrón repelente al agua, New Castle negro. Suela poliuretano inyectada, puntera metálica con recubrimiento dieléctrico, forro interno air mesh antitranspirable. Capellada en micropiel marrón o negro.",
     "tallas": "35-46",
     "precio": 35.99,
-    "imagen": "1051"
+    "imagen": "1051.png"
   },
   {
     "codigo": "1055",
@@ -69,7 +69,7 @@
     "descripcion": "Zapato micropiel marrón Nobuck forro air mesh antibacteriano, monodensidad elaborada en poliuretano con puntera de composite.",
     "tallas": "35-46",
     "precio": 36.93,
-    "imagen": "1055"
+    "imagen": "1055.png"
   },
   {
     "codigo": "4050",
@@ -78,7 +78,7 @@
     "descripcion": "Botín, micropiel tipo Nobuck, marrón repelente al agua. Suela poliuretano inyectada, puntera metálica con recubrimiento dieléctrico, forro interno air mesh antitranspirable.",
     "tallas": "35-46",
     "precio": 27.35,
-    "imagen": "4050"
+    "imagen": "4050.png"
   },
   {
     "codigo": "4050W",
@@ -87,7 +87,7 @@
     "descripcion": "Botín piel Nobuck marrón con fucsia. Puntera metálica con recubrimiento dieléctrico. Suela poliuretano, cementada o inyectada.",
     "tallas": "35-40",
     "precio": 27.35,
-    "imagen": "4050W"
+    "imagen": "4050W.png"
   },
   {
     "codigo": "4051",
@@ -96,7 +96,7 @@
     "descripcion": "Botín, cuero Nobuck marrón repelente al agua, New Castle negro. Suela poliuretano inyectada, puntera metálica con recubrimiento dieléctrico, forro interno air mesh antitranspirable. Capellada en micropiel marrón o negro.",
     "tallas": "35-46",
     "precio": 35.99,
-    "imagen": "4051"
+    "imagen": "4051.png"
   },
   {
     "codigo": "4055",
@@ -105,7 +105,7 @@
     "descripcion": "Bota micropiel marrón Nobuck forro air mesh antibacteriano, monodensidad elaborada en poliuretano con puntera de composite.",
     "tallas": "35-46",
     "precio": 40.19,
-    "imagen": "4055"
+    "imagen": "4055.png"
   },
   {
     "codigo": "3049",
@@ -114,7 +114,7 @@
     "descripcion": "Bota cuero graso hidrofugado café repelente al agua. Suela caucho método Goodyear Welt, doble costura (interior-exterior), puntera de composite o metálica.",
     "tallas": "35-45",
     "precio": 106.5,
-    "imagen": "3049"
+    "imagen": "3049.png"
   },
   {
     "codigo": "6010",
@@ -123,7 +123,7 @@
     "descripcion": "Botín, cuero graso, café. Suela método Goodyear Welt, doble costura (interior-exterior), puntera de composite o metálica.",
     "tallas": "35-46",
     "precio": 104.7,
-    "imagen": "6010"
+    "imagen": "6010.png"
   },
   {
     "codigo": "8032",
@@ -132,7 +132,7 @@
     "descripcion": "Bota de cuero vaqueta hidrofugado repelente al agua, puntera metálica con recubrimiento dieléctrico, suela en PVC nitrilo con costura reforzada y plantilla anatómica.",
     "tallas": "37-45",
     "precio": 75.99,
-    "imagen": "8032"
+    "imagen": "8032.png"
   },
   {
     "codigo": "8066",
@@ -141,7 +141,7 @@
     "descripcion": "Bota de cuero hidrofugado repelente al agua sin puntera metálica y recubrimiento dieléctrico, suela en PVC nitrilo con plantilla anatómica.",
     "tallas": "35-46",
     "precio": 84.9,
-    "imagen": "8066"
+    "imagen": "8066.png"
   },
   {
     "codigo": "8066P",
@@ -150,7 +150,7 @@
     "descripcion": "Bota de cuero hidrofugado repelente al agua con puntera metálica y recubrimiento dieléctrico, suela en PVC nitrilo con plantilla anatómica.",
     "tallas": "35-46",
     "precio": 87.45,
-    "imagen": "8066P"
+    "imagen": "8066P.png"
   },
   {
     "codigo": "8066T (POL1483)",
@@ -159,7 +159,7 @@
     "descripcion": "Bota militar en piel y lona reforzada con cierre al costado, suela de caucho.",
     "tallas": "37-43",
     "precio": 51.5,
-    "imagen": "8066T (POL1483)"
+    "imagen": "8066T.png"
   },
   {
     "codigo": "8066T1 (POL1486)",
@@ -168,7 +168,7 @@
     "descripcion": "Bota militar en piel y lona reforzada con cierre al costado, suela de caucho.",
     "tallas": "37-43",
     "precio": 49.98,
-    "imagen": "8066T1 (POL1486)"
+    "imagen": "8066T1.png"
   },
   {
     "codigo": "8066T2 (POL1489)",
@@ -177,7 +177,7 @@
     "descripcion": "Zapato micropiel marrón Nobuck forro air mesh antibacteriano, monodensidad elaborada en poliuretano con puntera de composite.",
     "tallas": "35-46",
     "precio": 49.98,
-    "imagen": "8066T2 (POL1489)"
+    "imagen": "8066T2.png"
   },
   {
     "codigo": "7001",
@@ -186,7 +186,7 @@
     "descripcion": "Bota con capellada en forro mesh + TPU repelente al agua, puntera composite de seguridad, suela ETPU con patín de caucho, huella anti slip, plantilla textil resistente a la perforación y planticonfort.",
     "tallas": "35-46",
     "precio": 54.98,
-    "imagen": "7001"
+    "imagen": "7001.png"
   },
   {
     "codigo": "7501",
@@ -195,7 +195,7 @@
     "descripcion": "Bota con capellada en forro mesh + TPU repelente al agua, puntera composite de seguridad, suela ETPU con patín de caucho, huella anti slip, plantilla textil resistente a la perforación y planticonfort.",
     "tallas": "35-40",
     "precio": 54.98,
-    "imagen": "7501"
+    "imagen": "7501.png"
   },
   {
     "codigo": "7002",
@@ -204,7 +204,7 @@
     "descripcion": "Bota con capellada en forro mesh + TPU repelente al agua, puntera composite de seguridad, suela ETPU con patín de caucho, huella anti slip, plantilla textil resistente a la perforación y planticonfort.",
     "tallas": "35-46",
     "precio": 54.98,
-    "imagen": "7002"
+    "imagen": "7002.png"
   },
   {
     "codigo": "7003WR",
@@ -213,7 +213,7 @@
     "descripcion": "Bota con capellada en forro mesh + TPU waterproof, puntera composite de seguridad, suela ETPU con patín de caucho, huella anti slip, cierre rápido, plantilla textil resistente a la perforación y planticonfort.",
     "tallas": "35-46",
     "precio": 64.56,
-    "imagen": "7003WR"
+    "imagen": "7003WR.png"
   },
   {
     "codigo": "9020",
@@ -222,7 +222,7 @@
     "descripcion": "Bota caucho PVC, sin puntera.",
     "tallas": "36-46",
     "precio": 15.9,
-    "imagen": "9020"
+    "imagen": "9020W.png"
   },
   {
     "codigo": "9030",
@@ -231,7 +231,7 @@
     "descripcion": "Bota caucho PVC, sin puntera.",
     "tallas": "36-46",
     "precio": 15.9,
-    "imagen": "9030"
+    "imagen": "9030.png"
   },
   {
     "codigo": "9040",
@@ -240,7 +240,7 @@
     "descripcion": "Bota caucho PVC, con puntera.",
     "tallas": "36-46",
     "precio": 20.63,
-    "imagen": "9040"
+    "imagen": "9040.png"
   },
   {
     "codigo": "SUPLA SIN PUNTERA",
@@ -249,7 +249,7 @@
     "descripcion": "Bota caucho PVC sin puntera Supla.",
     "tallas": "37-46",
     "precio": 15.9,
-    "imagen": "SUPLA SIN PUNTERA"
+    "imagen": "SUPLA sin puntera.png"
   },
   {
     "codigo": "SUPLA CON PUNTERA",
@@ -258,7 +258,7 @@
     "descripcion": "Bota caucho PVC con puntera Supla.",
     "tallas": "37-46",
     "precio": 22.84,
-    "imagen": "SUPLA CON PUNTERA"
+    "imagen": "SUPLA con puntera.png"
   },
   {
     "codigo": "3048",
@@ -267,7 +267,7 @@
     "descripcion": "Bota de seguridad tipo petrolera con forro interno, altura 10\", fabricada en cuero graso café, puntera de composite, suela de inyección directa al corte bidensidad (PU/PU) dieléctrico.",
     "tallas": "35-46",
     "precio": 44.21,
-    "imagen": "3048"
+    "imagen": "3048.png"
   },
   {
     "codigo": "2021E",
@@ -276,7 +276,7 @@
     "descripcion": "Botín de seguridad fabricado en micropiel negra, con puntera de composite, suela de inyección directa al corte bidensidad (PU/PU) dieléctrico.",
     "tallas": "35-46",
     "precio": 22.11,
-    "imagen": "2021E"
+    "imagen": "2021E.png"
   },
   {
     "codigo": "2022E",
@@ -285,7 +285,7 @@
     "descripcion": "Botín de seguridad fabricado en micropiel negra, con puntera de composite, suela de inyección directa al corte bidensidad (PU/PU) dieléctrico.",
     "tallas": "35-46",
     "precio": 22.11,
-    "imagen": "2022E"
+    "imagen": "2022E.png"
   },
   {
     "codigo": "4058",
@@ -294,7 +294,7 @@
     "descripcion": "Botín de seguridad tipo supervisor, cuero Nobuck café/marrón, con puntera de composite, suela de inyección directa al corte bidensidad (PU/PU) dieléctrico.",
     "tallas": "35-46",
     "precio": 36.84,
-    "imagen": "4058"
+    "imagen": "4058.png"
   },
   {
     "codigo": "4059",
@@ -303,7 +303,7 @@
     "descripcion": "Botín de seguridad tipo supervisor, cuero Nobuck café, con puntera de composite, suela de inyección directa al corte bidensidad (PU/PU) dieléctrico.",
     "tallas": "35-46",
     "precio": 36.84,
-    "imagen": "4059"
+    "imagen": "4059.png"
   },
   {
     "codigo": "4059W",
@@ -312,7 +312,7 @@
     "descripcion": "Botín de seguridad tipo supervisor dama, cuero Nobuck café, con puntera de composite, suela de inyección directa al corte bidensidad (PU/PU) dieléctrico.",
     "tallas": "35-46",
     "precio": 36.84,
-    "imagen": "4059W"
+    "imagen": "4059W.png"
   },
   {
     "codigo": "5010",
@@ -321,7 +321,7 @@
     "descripcion": "Botín de seguridad tipo petrolero, cuero graso café, con puntera de composite, suela de inyección directa al corte bidensidad (PU/PU) dieléctrico.",
     "tallas": "35-46",
     "precio": 36.84,
-    "imagen": "5010"
+    "imagen": "5010.png"
   },
   {
     "codigo": "5020",
@@ -330,7 +330,7 @@
     "descripcion": "Botín de seguridad tipo ingeniero, cuero graso oro, con puntera de composite, suela de inyección directa al corte bidensidad (PU/PU) dieléctrico.",
     "tallas": "35-46",
     "precio": 36.84,
-    "imagen": "5020"
+    "imagen": "5020.png"
   },
   {
     "codigo": "PUNTERA DE VISITANTE",
@@ -339,7 +339,7 @@
     "descripcion": "Puntera especial para visitante, micropiel negro, forro interno, talla única, puntera metálica recubrimiento dieléctrico, suela crepe lina negra, ajuste de reata.",
     "tallas": "Talla única",
     "precio": 37.58,
-    "imagen": "PUNTERA DE VISITANTE"
+    "imagen": "Puntera visitante.png"
   },
   {
     "codigo": "PLANTILLA ANATÓMICA",
@@ -348,7 +348,7 @@
     "descripcion": "Plantilla perforada en poliéter, microfibra.",
     "tallas": "35-46",
     "precio": 2.35,
-    "imagen": "PLANTILLA ANATÓMICA"
+    "imagen": "Plantilla.png"
   },
   {
     "codigo": "SUELA PATÍN DE CAUCHO",
@@ -357,7 +357,7 @@
     "descripcion": "Suela caucho/PU, patín en caucho y entresuela en poliuretano inyectada directamente al corte.",
     "tallas": "35-46",
     "precio": 13.26,
-    "imagen": "SUELA PATÍN DE CAUCHO"
+    "imagen": "Suela Patin.png"
   },
   {
     "codigo": "PLANTILLA METÁLICA",
@@ -366,7 +366,7 @@
     "descripcion": "Plantilla hecha en metal.",
     "tallas": "35-46",
     "precio": 1.96,
-    "imagen": "PLANTILLA METÁLICA"
+    "imagen": "Plantilla metalica.png"
   },
   {
     "codigo": "PLANTILLA KEVLAR",
@@ -375,7 +375,7 @@
     "descripcion": "Plantilla antiperforante ligera de fibras de kevlar.",
     "tallas": "35-38",
     "precio": 5.1,
-    "imagen": "PLANTILLA KEVLAR"
+    "imagen": "Plantilla Kevlar.png"
   },
   {
     "codigo": "3004",
@@ -384,7 +384,7 @@
     "descripcion": "Arnés 3 anillo con almohadilla en espalda INTOOL.",
     "tallas": "",
     "precio": 39.35,
-    "imagen": "3004"
+    "imagen": "3004.png"
   },
   {
     "codigo": "3007",
@@ -393,7 +393,7 @@
     "descripcion": "Arnés 5 anillo con almohadilla en espalda INTOOL.",
     "tallas": "",
     "precio": 44.46,
-    "imagen": "3007"
+    "imagen": "3007.png"
   },
   {
     "codigo": "3005",
@@ -402,7 +402,7 @@
     "descripcion": "Arnés 5 anillo con almohadilla espalda y faja.",
     "tallas": "",
     "precio": 58.31,
-    "imagen": "3005"
+    "imagen": "3005.png"
   },
   {
     "codigo": "24001",
@@ -411,7 +411,7 @@
     "descripcion": "Arnés cuerpo completo tipo Galago FA50605.",
     "tallas": "",
     "precio": 66.02,
-    "imagen": "24001"
+    "imagen": "24001.png"
   },
   {
     "codigo": "SIPRL 200",
@@ -420,7 +420,7 @@
     "descripcion": "Cinta de poliéster 1 3/4\". 1 Anilla D forjada en la espalda. Hebillas ligeras de fácil enganche y ajuste. Cintas ajustables en pecho, torso y piernas.",
     "tallas": "",
     "precio": 50.41,
-    "imagen": "SIPRL 200"
+    "imagen": "SIPRL 200.png"
   },
   {
     "codigo": "SIPRL 201",
@@ -429,7 +429,7 @@
     "descripcion": "1 Anilla D forjada en la espalda. 2 Anillas D forjadas en la cintura para posicionamiento. Hebillas ligeras de fácil enganche y ajuste. Cintas ajustables en pecho, torso y piernas.",
     "tallas": "",
     "precio": 53.2,
-    "imagen": "SIPRL 201"
+    "imagen": "SIPRL 201.png"
   },
   {
     "codigo": "SIPHAR12GILT",
@@ -438,7 +438,7 @@
     "descripcion": "Arnés corporal con soporte lumbar HAR12 (2 puntos de sujeción con chaleco). Marca: DELTA.",
     "tallas": "",
     "precio": 29.48,
-    "imagen": "SIPHAR12GILT"
+    "imagen": "SIPHAR12GILT.png"
   },
   {
     "codigo": "SIPHAR22",
@@ -447,7 +447,7 @@
     "descripcion": "Arnés corporal con 2 puntos de sujeción HAR22. Marca: DELTA.",
     "tallas": "",
     "precio": 29.48,
-    "imagen": "SIPHAR22"
+    "imagen": "SIPHAR22.png"
   },
   {
     "codigo": "SIPHAR23",
@@ -456,7 +456,7 @@
     "descripcion": "Arnés corporal con soporte lumbar HAR23 (3 puntos de sujeción). Marca: DELTA.",
     "tallas": "",
     "precio": 35.37,
-    "imagen": "SIPHAR23"
+    "imagen": "SIPHAR23.png"
   },
   {
     "codigo": "SIPHAR24",
@@ -465,7 +465,7 @@
     "descripcion": "Arnés corporal con soporte lumbar HAR24 (4 puntos de sujeción). Marca: DELTA.",
     "tallas": "",
     "precio": 51.5,
-    "imagen": "SIPHAR24"
+    "imagen": "SIPHAR24.png"
   },
   {
     "codigo": "SEI05PRC",
@@ -474,7 +474,7 @@
     "descripcion": "Arnés cuerpo completo 5 anillos UYUSTOOLS.",
     "tallas": "",
     "precio": 36.84,
-    "imagen": "SEI05PRC"
+    "imagen": "SEI05PRC.png"
   },
   {
     "codigo": "SIPRA04",
@@ -483,7 +483,7 @@
     "descripcion": "Arnés tractor safety.",
     "tallas": "",
     "precio": 36.84,
-    "imagen": "SIPRA04"
+    "imagen": "SIPRA04.png"
   },
   {
     "codigo": "SIAR1010",
@@ -492,7 +492,7 @@
     "descripcion": "Arnés JOHA - Marca CAP.",
     "tallas": "",
     "precio": 36.84,
-    "imagen": "SIAR1010"
+    "imagen": "SIAR1010.png"
   },
   {
     "codigo": "ARNES-5A",
@@ -501,7 +501,7 @@
     "descripcion": "Arnés 5 anillos.",
     "tallas": "",
     "precio": 35.37,
-    "imagen": "ARNES-5A"
+    "imagen": "ARNES-5A.png"
   },
   {
     "codigo": "ESL-Y",
@@ -510,7 +510,7 @@
     "descripcion": "Eslinga de absorción tipo Y.",
     "tallas": "",
     "precio": 33.9,
-    "imagen": "ESL-Y"
+    "imagen": "ESL-Y.png"
   },
   {
     "codigo": "23005",
@@ -519,7 +519,7 @@
     "descripcion": "Material: Poliéster. Peso máx. usuario: 59-140 kg. Anchura: 30 mm. Resistencia a la rotura: 6000 lbs (2.722 kg). Sistema de absorción: 6 pies.",
     "tallas": "",
     "precio": 34.0,
-    "imagen": "23005"
+    "imagen": "23005.png"
   },
   {
     "codigo": "23007",
@@ -528,7 +528,7 @@
     "descripcion": "Material: Poliéster. Peso máx. usuario: 59-140 kg. Anchura: 30 mm. Resistencia a la rotura: 6000 lbs (2.722 kg). Sistema de absorción: 6 pies.",
     "tallas": "",
     "precio": 26.53,
-    "imagen": "23007"
+    "imagen": "23007.png"
   },
   {
     "codigo": "23004",
@@ -537,7 +537,7 @@
     "descripcion": "Material: Poliéster. Peso máx. usuario: 59-140 kg. Anchura: 30 mm. Resistencia a la rotura: 6000 lbs (2.722 kg). Sistema de absorción: 6 pies.",
     "tallas": "",
     "precio": 29.48,
-    "imagen": "23004"
+    "imagen": "23004.png"
   },
   {
     "codigo": "23001",
@@ -546,7 +546,7 @@
     "descripcion": "Material: Poliéster. Peso máx. usuario: 59-140 kg. Anchura: 30 mm. Sistema de absorción: 6 pies.",
     "tallas": "",
     "precio": 25.05,
-    "imagen": "23001"
+    "imagen": "23001.png"
   },
   {
     "codigo": "SITRAC026E",
@@ -555,7 +555,7 @@
     "descripcion": "Eslinga de absorción tipo Y C026E TRACTEL.",
     "tallas": "",
     "precio": 56.02,
-    "imagen": "SITRAC026E"
+    "imagen": "SITRAC026E.png"
   },
   {
     "codigo": "EX021",
@@ -564,7 +564,7 @@
     "descripcion": "Cuerda de sujeción anticaída DELTA EX021.",
     "tallas": "",
     "precio": 13.26,
-    "imagen": "EX021"
+    "imagen": "EX021.png"
   },
   {
     "codigo": "SILLA-SUSP",
@@ -573,7 +573,7 @@
     "descripcion": "Silla de suspensión para alturas.",
     "tallas": "",
     "precio": 56.74,
-    "imagen": "SILLA-SUSP"
+    "imagen": "SILLA-SUSP.png"
   },
   {
     "codigo": "CINT-POSI",
@@ -582,7 +582,7 @@
     "descripcion": "Cinturón de posicionamiento INTOOL.",
     "tallas": "",
     "precio": 31.53,
-    "imagen": "CINT-POSI"
+    "imagen": "CINT-POSI.png"
   },
   {
     "codigo": "BOL-HER",
@@ -591,7 +591,7 @@
     "descripcion": "Bolso para herramientas INTOOL.",
     "tallas": "",
     "precio": 33.16,
-    "imagen": "BOL-HER"
+    "imagen": "BOL-HER.png"
   },
   {
     "codigo": "CINT-GUARDIAN",
@@ -600,7 +600,7 @@
     "descripcion": "Cinturón Guardian 10786.",
     "tallas": "",
     "precio": 29.48,
-    "imagen": "CINT-GUARDIAN"
+    "imagen": "Cint-Guardian.png"
   },
   {
     "codigo": "PRO-ABRA",
@@ -609,7 +609,7 @@
     "descripcion": "Protector auditivo tipo cintillo, marca Abratools",
     "tallas": "",
     "precio": 8.6,
-    "imagen": "PRO-ABRA"
+    "imagen": "PRO-ABRA.png"
   },
   {
     "codigo": "PA12703M",
@@ -618,7 +618,7 @@
     "descripcion": "Protector auditivo reutilizable con cuerda, modelo 1270, marca 3M",
     "tallas": "",
     "precio": 0.46,
-    "imagen": "PA12703M"
+    "imagen": "PA12703M.png"
   },
   {
     "codigo": "PA1628",
@@ -627,7 +627,7 @@
     "descripcion": "Protector auditivo desechable sin cuerda, modelo 1100, marca 3M",
     "tallas": "",
     "precio": 0.39,
-    "imagen": "PA1628"
+    "imagen": "PA1628.png"
   },
   {
     "codigo": "TAPON-TCE",
@@ -636,7 +636,7 @@
     "descripcion": "Tapón auditivo con cordón y estuche incluido",
     "tallas": "",
     "precio": 0.23,
-    "imagen": "TAPON-TCE"
+    "imagen": "TAPON-TCE.png"
   },
   {
     "codigo": "CONICC-TCE",
@@ -645,7 +645,7 @@
     "descripcion": "Protector auditivo Connic con cordón y estuche",
     "tallas": "",
     "precio": 0.39,
-    "imagen": "CONICC-TCE"
+    "imagen": "CONICC-TCE.png"
   },
   {
     "codigo": "CONICC-TAP",
@@ -654,7 +654,7 @@
     "descripcion": "Protector auditivo sin cuerda, marca Delta",
     "tallas": "",
     "precio": 0.05,
-    "imagen": "CONICC-TAP"
+    "imagen": "CONICC-TAP.png"
   },
   {
     "codigo": "IRONTAP",
@@ -663,7 +663,7 @@
     "descripcion": "Protector auditivo sin cuerda, marca Ironwear y Falcon",
     "tallas": "",
     "precio": 0.04,
-    "imagen": "IRONTAP"
+    "imagen": "IRONTAP.png"
   },
   {
     "codigo": "NRR2842",
@@ -672,7 +672,7 @@
     "descripcion": "Protector auditivo desechable sin cuerda, marca North",
     "tallas": "",
     "precio": 0.07,
-    "imagen": "NRR2842"
+    "imagen": "NRR2842.png"
   },
   {
     "codigo": "TAPTM-01",
@@ -681,7 +681,7 @@
     "descripcion": "Tapón auditivo con cuerda T-Max, marca Howard Leight",
     "tallas": "",
     "precio": 0.14,
-    "imagen": "TAPTM-01"
+    "imagen": "TAPTM-01.png"
   },
   {
     "codigo": "PACINT01",
@@ -690,7 +690,7 @@
     "descripcion": "Protector auditivo tipo audífono, marca Falcon",
     "tallas": "",
     "precio": 8.64,
-    "imagen": "PACINT01"
+    "imagen": "PACINT01.png"
   },
   {
     "codigo": "PAUDI-ABRA",
@@ -699,7 +699,7 @@
     "descripcion": "Protector auditivo adaptable al casco, marca Abratools",
     "tallas": "",
     "precio": 8.84,
-    "imagen": "PAUDI-ABRA"
+    "imagen": "PAUDI-ABRA.png"
   },
   {
     "codigo": "PA30DB",
@@ -708,7 +708,7 @@
     "descripcion": "Protector auditivo 30dB tipo cintillo, marca Intool",
     "tallas": "",
     "precio": 8.11,
-    "imagen": "PA30DB"
+    "imagen": "PA30DB.png"
   },
   {
     "codigo": "EC-1001A",
@@ -717,7 +717,7 @@
     "descripcion": "Protector auditivo sin cuerda, marca Intool",
     "tallas": "",
     "precio": 0.07,
-    "imagen": "EC-1001A"
+    "imagen": "EC-1001A.png"
   },
   {
     "codigo": "EC-1001A-C",
@@ -726,7 +726,7 @@
     "descripcion": "Protector auditivo con cuerda, marca Intool",
     "tallas": "",
     "precio": 0.18,
-    "imagen": "EC-1001A-C"
+    "imagen": "EC-1001A-C.png"
   },
   {
     "codigo": "EC-2062C",
@@ -735,7 +735,7 @@
     "descripcion": "Protector auditivo con cordón y estuche, marca Intool",
     "tallas": "",
     "precio": 0.42,
-    "imagen": "EC-2062C"
+    "imagen": "EC-2062C.png"
   },
   {
     "codigo": "EM5002B-1",
@@ -744,7 +744,7 @@
     "descripcion": "Protector auditivo tipo cintillo color negro/verde",
     "tallas": "",
     "precio": 8.46,
-    "imagen": "EM5002B-1"
+    "imagen": "EM5002B-1.png"
   },
   {
     "codigo": "EM5002B-2",
@@ -753,7 +753,7 @@
     "descripcion": "Protector auditivo tipo cintillo color verde/negro",
     "tallas": "",
     "precio": 8.46,
-    "imagen": "EM5002B-2"
+    "imagen": "EM5002B-2.png"
   },
   {
     "codigo": "FM2E-1",
@@ -762,7 +762,7 @@
     "descripcion": "Protector auditivo adaptable al casco color verde/negro",
     "tallas": "",
     "precio": 8.78,
-    "imagen": "FM2E-1"
+    "imagen": "FM2E-1.png"
   },
   {
     "codigo": "FM2E-2",
@@ -771,7 +771,7 @@
     "descripcion": "Protector auditivo adaptable al casco color verde/negro (variante 2)",
     "tallas": "",
     "precio": 8.78,
-    "imagen": "FM2E-2"
+    "imagen": "FM2E-2.png"
   },
   {
     "codigo": "CASIMA",
@@ -780,7 +780,7 @@
     "descripcion": "Casco Infracap con sistema de ajuste matraca",
     "tallas": "",
     "precio": 6.18,
-    "imagen": "CASIMA"
+    "imagen": "CASIMA.png"
   },
   {
     "codigo": "CASIN",
@@ -789,7 +789,7 @@
     "descripcion": "Casco Infracap con ajuste por intervalos",
     "tallas": "",
     "precio": 5.73,
-    "imagen": "CASIN"
+    "imagen": "CASIN.png"
   },
   {
     "codigo": "CASIAL",
@@ -798,7 +798,7 @@
     "descripcion": "Casco Infracap ala ancha con sistema de ajuste matraca",
     "tallas": "",
     "precio": 9.58,
-    "imagen": "CASIAL"
+    "imagen": "CASIAL.png"
   },
   {
     "codigo": "CASIMA-BF",
@@ -807,7 +807,7 @@
     "descripcion": "Casco de fibra de vidrio, estilo minero",
     "tallas": "",
     "precio": 20.63,
-    "imagen": "CASIMA-BF"
+    "imagen": "CASIMA-BF.png"
   },
   {
     "codigo": "ATALBAR-02",
@@ -816,7 +816,7 @@
     "descripcion": "Atalaje de plástico para casco, marca Intool",
     "tallas": "",
     "precio": 5.16,
-    "imagen": "ATALBAR-02"
+    "imagen": "ATALBAR-02.png"
   },
   {
     "codigo": "SIATAL",
@@ -825,7 +825,7 @@
     "descripcion": "Atalaje de aluminio para casco",
     "tallas": "",
     "precio": 5.9,
-    "imagen": "SIATAL"
+    "imagen": "SIATAL.png"
   },
   {
     "codigo": "SIB01001",
@@ -834,7 +834,7 @@
     "descripcion": "Barbiquejo para sujeción de casco",
     "tallas": "",
     "precio": 2.95,
-    "imagen": "SIB01001"
+    "imagen": "SIB01001.png"
   },
   {
     "codigo": "1000C",
@@ -843,7 +843,7 @@
     "descripcion": "Lente de seguridad tipo supervisor, lente claro, marca Intool Safe",
     "tallas": "",
     "precio": 0.72,
-    "imagen": "1000C"
+    "imagen": "1000C.png"
   },
   {
     "codigo": "1010G",
@@ -852,7 +852,7 @@
     "descripcion": "Lente de seguridad tipo supervisor, lente oscuro, marca Intool Safe",
     "tallas": "",
     "precio": 0.72,
-    "imagen": "1010G"
+    "imagen": "1010G.png"
   },
   {
     "codigo": "1010I",
@@ -861,7 +861,7 @@
     "descripcion": "Lente de seguridad fotocromático, marca Intool Safe",
     "tallas": "",
     "precio": 0.94,
-    "imagen": "1010I"
+    "imagen": "1010I.png"
   },
   {
     "codigo": "1100C",
@@ -870,7 +870,7 @@
     "descripcion": "Lente de seguridad tipo supervisor, lente claro, marca Intool Vision",
     "tallas": "",
     "precio": 0.97,
-    "imagen": "1100C"
+    "imagen": "1100C.png"
   },
   {
     "codigo": "1110G",
@@ -879,7 +879,7 @@
     "descripcion": "Lente de seguridad tipo supervisor, lente oscuro, marca Intool Vision",
     "tallas": "",
     "precio": 0.97,
-    "imagen": "1110G"
+    "imagen": "1110G.png"
   },
   {
     "codigo": "1100I",
@@ -888,7 +888,7 @@
     "descripcion": "Lente de seguridad fotocromático, marca Intool Vision",
     "tallas": "",
     "precio": 1.18,
-    "imagen": "1100I"
+    "imagen": "1100I.png"
   },
   {
     "codigo": "3010C",
@@ -897,7 +897,7 @@
     "descripcion": "Lente de seguridad tipo supervisor, lente claro, borde negro, marca Intool Pro",
     "tallas": "",
     "precio": 1.53,
-    "imagen": "3010C"
+    "imagen": "3010C.png"
   },
   {
     "codigo": "3010G",
@@ -906,7 +906,7 @@
     "descripcion": "Lente de seguridad tipo supervisor, lente oscuro, borde negro, marca Intool Pro",
     "tallas": "",
     "precio": 1.53,
-    "imagen": "3010G"
+    "imagen": "3010G.png"
   },
   {
     "codigo": "3010I",
@@ -915,7 +915,7 @@
     "descripcion": "Lente de seguridad fotocromático, marca Intool Pro",
     "tallas": "",
     "precio": 1.71,
-    "imagen": "3010I"
+    "imagen": "3010I.png"
   },
   {
     "codigo": "3020C",
@@ -924,7 +924,7 @@
     "descripcion": "Lente de seguridad tipo supervisor, lente claro, borde blanco, marca Intool Pros",
     "tallas": "",
     "precio": 1.53,
-    "imagen": "3020C"
+    "imagen": "3020C.png"
   },
   {
     "codigo": "3020G",
@@ -933,7 +933,7 @@
     "descripcion": "Lente de seguridad tipo supervisor, lente oscuro, borde blanco, marca Intool Pro",
     "tallas": "",
     "precio": 1.53,
-    "imagen": "3020G"
+    "imagen": "3020G.png"
   },
   {
     "codigo": "3030C",
@@ -942,7 +942,7 @@
     "descripcion": "Lente de seguridad tipo supervisor, lente claro, borde fucsia, marca Intool Pro",
     "tallas": "",
     "precio": 1.53,
-    "imagen": "3030C"
+    "imagen": "3030C.png"
   },
   {
     "codigo": "3030G",
@@ -951,7 +951,7 @@
     "descripcion": "Lente de seguridad tipo supervisor, lente oscuro, borde fucsia, marca Intool Pro",
     "tallas": "",
     "precio": 1.53,
-    "imagen": "3030G"
+    "imagen": "3030G.png"
   },
   {
     "codigo": "4010CA",
@@ -960,7 +960,7 @@
     "descripcion": "Monolente de seguridad, lente claro, marca Intool Guard",
     "tallas": "",
     "precio": 3.97,
-    "imagen": "4010CA"
+    "imagen": "4010CA.png"
   },
   {
     "codigo": "4010GA",
@@ -969,7 +969,7 @@
     "descripcion": "Monolente de seguridad, lente oscuro, marca Intool Guard",
     "tallas": "",
     "precio": 3.97,
-    "imagen": "4010GA"
+    "imagen": "4010GA.png"
   },
   {
     "codigo": "5010CA",
@@ -978,7 +978,7 @@
     "descripcion": "Monolente de seguridad, lente claro, marca Intool Shield",
     "tallas": "",
     "precio": 3.97,
-    "imagen": "5010CA"
+    "imagen": "5010CA.png"
   },
   {
     "codigo": "5010GA",
@@ -987,7 +987,7 @@
     "descripcion": "Monolente de seguridad, lente oscuro, marca Intool Shield",
     "tallas": "",
     "precio": 3.97,
-    "imagen": "5010GA"
+    "imagen": "5010GA.png"
   },
   {
     "codigo": "LEOSC-01",
@@ -996,7 +996,7 @@
     "descripcion": "Lente de obrero, lente oscuro, borde azul",
     "tallas": "",
     "precio": 0.66,
-    "imagen": "LEOSC-01"
+    "imagen": "LEOSC-01.png"
   },
   {
     "codigo": "LENSUP",
@@ -1005,7 +1005,7 @@
     "descripcion": "Lente de seguridad tipo supervisor, disponible en claro y oscuro, sin borde",
     "tallas": "",
     "precio": 0.58,
-    "imagen": "LENSUP"
+    "imagen": "LENSUP.png"
   },
   {
     "codigo": "SOBRE-LE",
@@ -1014,7 +1014,7 @@
     "descripcion": "Sobre lente de seguridad, lente claro",
     "tallas": "",
     "precio": 0.88,
-    "imagen": "SOBRE-LE"
+    "imagen": "SOBRE-LE.png"
   },
   {
     "codigo": "LEGOL-006",
@@ -1023,7 +1023,7 @@
     "descripcion": "Lente de obrero, lente claro",
     "tallas": "",
     "precio": 0.52,
-    "imagen": "LEGOL-006"
+    "imagen": "LEGOL-006.png"
   },
   {
     "codigo": "LEGOL-002",
@@ -1032,7 +1032,7 @@
     "descripcion": "Lente de obrero, lente oscuro",
     "tallas": "",
     "precio": 0.58,
-    "imagen": "LEGOL-002"
+    "imagen": "LEGOL-002.png"
   },
   {
     "codigo": "LENFALC",
@@ -1041,7 +1041,7 @@
     "descripcion": "Lente de obrero disponible en claro y oscuro, marca Falcon",
     "tallas": "",
     "precio": 0.74,
-    "imagen": "LENFALC"
+    "imagen": "LENFALC.png"
   },
   {
     "codigo": "LE138-N",
@@ -1050,7 +1050,7 @@
     "descripcion": "Lente de seguridad tipo supervisor, marca North",
     "tallas": "",
     "precio": 2.0900000000000003,
-    "imagen": "LE138-N"
+    "imagen": "LE138-N.png"
   },
   {
     "codigo": "LENBRAVA-AM",
@@ -1059,7 +1059,7 @@
     "descripcion": "Lente de supervisor Brava, marca Delta",
     "tallas": "",
     "precio": 1.1,
-    "imagen": "LENBRAVA-AM"
+    "imagen": "LENBRAVA-AM.png"
   },
   {
     "codigo": "LENTHUN-IN",
@@ -1068,7 +1068,7 @@
     "descripcion": "Lente de supervisor Thunder con funda y cuerda incluida, marca Delta",
     "tallas": "",
     "precio": 1.18,
-    "imagen": "LENTHUN-IN"
+    "imagen": "LENTHUN-IN.png"
   },
   {
     "codigo": "LENRAPTOR-OSC",
@@ -1077,7 +1077,7 @@
     "descripcion": "Lente de supervisor V-Raptor, lente oscuro",
     "tallas": "",
     "precio": 0.97,
-    "imagen": "LENRAPTOR-OSC"
+    "imagen": "LENRAPTOR-OSC.png"
   },
   {
     "codigo": "LENRAPTOR-FO",
@@ -1086,7 +1086,7 @@
     "descripcion": "Lente de supervisor fotocromático V-Raptor V4003IO",
     "tallas": "",
     "precio": 1.19,
-    "imagen": "LENRAPTOR-FO"
+    "imagen": "LENRAPTOR-FO.png"
   },
   {
     "codigo": "LE138F",
@@ -1095,7 +1095,7 @@
     "descripcion": "Lente fotocromático, marca Falcon",
     "tallas": "",
     "precio": 2.21,
-    "imagen": "LE138F"
+    "imagen": "LE138F.png"
   },
   {
     "codigo": "LEGOL-ABRA",
@@ -1104,7 +1104,7 @@
     "descripcion": "Lente fotocromático, marca Abratools",
     "tallas": "",
     "precio": 2.21,
-    "imagen": "LEGOL-ABRA"
+    "imagen": "LEGOL-ABRA.png"
   },
   {
     "codigo": "LETRAC-1",
@@ -1113,7 +1113,7 @@
     "descripcion": "Lente fotocromático Tractor Safety",
     "tallas": "",
     "precio": 1.46,
-    "imagen": "LETRAC-1"
+    "imagen": "LETRAC-1.png"
   },
   {
     "codigo": "LEP1373",
@@ -1122,7 +1122,7 @@
     "descripcion": "Monolente de seguridad, marca SafetyGoggle",
     "tallas": "",
     "precio": 2.6500000000000004,
-    "imagen": "LEP1373"
+    "imagen": "LEP1373.png"
   },
   {
     "codigo": "MONOSAF-02",
@@ -1131,7 +1131,7 @@
     "descripcion": "Monolente de seguridad FDA, marca SafetyGoggle",
     "tallas": "",
     "precio": 4.12,
-    "imagen": "MONOSAF-02"
+    "imagen": "MONOSAF-02.png"
   },
   {
     "codigo": "MONOLZETA",
@@ -1140,7 +1140,7 @@
     "descripcion": "Monolente de seguridad, marca ZetaVision, color claro",
     "tallas": "",
     "precio": 3.39,
-    "imagen": "MONOLZETA"
+    "imagen": "MONOLZETA.png"
   },
   {
     "codigo": "LE2206",
@@ -1149,7 +1149,7 @@
     "descripcion": "Lente de seguridad para oxicorte",
     "tallas": "",
     "precio": 4.16,
-    "imagen": "LE2206"
+    "imagen": "LE2206.png"
   },
   {
     "codigo": "CARLENT",
@@ -1158,7 +1158,7 @@
     "descripcion": "Protector facial con montura, venta al mayor",
     "tallas": "",
     "precio": 0.58,
-    "imagen": "CARLENT"
+    "imagen": "CARLENT.png"
   },
   {
     "codigo": "CARLENTLC",
@@ -1167,7 +1167,7 @@
     "descripcion": "Protector facial con montura variante LC, venta al mayor",
     "tallas": "",
     "precio": 0.58,
-    "imagen": "CARLENTLC"
+    "imagen": "CARLENTLC.png"
   },
   {
     "codigo": "CARLENTLC-B",
@@ -1176,7 +1176,7 @@
     "descripcion": "Protector facial, venta por bulto de 240 unidades",
     "tallas": "",
     "precio": 0.58,
-    "imagen": "CARLENTLC-B"
+    "imagen": "CARLENTLC-B.png"
   },
   {
     "codigo": "SIAR9014",
@@ -1185,7 +1185,7 @@
     "descripcion": "Antalla facial con atalaje, venta al detal",
     "tallas": "",
     "precio": 8.11,
-    "imagen": "SIAR9014"
+    "imagen": "SIAR9014.png"
   },
   {
     "codigo": "SIAR9014-M",
@@ -1194,7 +1194,7 @@
     "descripcion": "Antalla facial con atalaje, venta mayor a partir de 20 unidades",
     "tallas": "",
     "precio": 7.37,
-    "imagen": "SIAR9014-M"
+    "imagen": "SIAR9014-M.png"
   },
   {
     "codigo": "CARE-SOLD",
@@ -1203,7 +1203,7 @@
     "descripcion": "Careta para soldador",
     "tallas": "",
     "precio": 5.9,
-    "imagen": "CARE-SOLD"
+    "imagen": "CARE-SOLD.png"
   },
   {
     "codigo": "SIA01002",
@@ -1212,7 +1212,7 @@
     "descripcion": "Pantalla de repuesto para atalaje facial",
     "tallas": "",
     "precio": 2.95,
-    "imagen": "SIA01002"
+    "imagen": "SIA01002.png"
   },
   {
     "codigo": "SIAR9014Z",
@@ -1221,7 +1221,7 @@
     "descripcion": "Careta para esmerilar con atalaje",
     "tallas": "",
     "precio": 5.9,
-    "imagen": "SIAR9014Z"
+    "imagen": "SIAR9014Z.png"
   },
   {
     "codigo": "FACESHIELD",
@@ -1230,7 +1230,7 @@
     "descripcion": "Mascarilla protectora tipo face shield para aislamiento",
     "tallas": "",
     "precio": 7.37,
-    "imagen": "FACESHIELD"
+    "imagen": "FACESHIELD.png"
   },
   {
     "codigo": "SEJLE04",
@@ -1239,7 +1239,7 @@
     "descripcion": "Sujetador de lente, marca Barckly",
     "tallas": "",
     "precio": 1.27,
-    "imagen": "SEJLE04"
+    "imagen": "SEJLE04.png"
   },
   {
     "codigo": "BRAGA DRILL",
@@ -1248,7 +1248,7 @@
     "descripcion": "Braga obrero en tela drill, manga larga, con cinta reflectiva",
     "tallas": "S/M/L/XL/2XL",
     "precio": 23.04,
-    "imagen": "BRAGA DRILL"
+    "imagen": "BRAGA DRILL.png"
   },
   {
     "codigo": "BRAGA",
@@ -1257,7 +1257,7 @@
     "descripcion": "Braga obrero 100%, manga larga, con cinta reflectiva",
     "tallas": "S/M/L/XL/2XL",
     "precio": 25.98,
-    "imagen": "BRAGA"
+    "imagen": "BRAGA.png"
   },
   {
     "codigo": "BRAGA SUP.",
@@ -1266,7 +1266,7 @@
     "descripcion": "Braga superior en tela drill, manga larga, con cinta reflectiva",
     "tallas": "S/M/L/XL/2XL",
     "precio": 29.9,
-    "imagen": "BRAGA SUP."
+    "imagen": "BRAGA SUP.png"
   },
   {
     "codigo": "BRAGA SUP.2",
@@ -1275,7 +1275,7 @@
     "descripcion": "Braga superior 100%, manga larga, con cinta reflectiva",
     "tallas": "S/M/L/XL/2XL",
     "precio": 32.49,
-    "imagen": "BRAGA SUP.2"
+    "imagen": "BRAGA SUP.2.png"
   },
   {
     "codigo": "BRAGA IGNIFUGA",
@@ -1284,7 +1284,7 @@
     "descripcion": "Braga ignífuga de protección contra el fuego",
     "tallas": "S/M/L/XL/2XL",
     "precio": 84.51,
-    "imagen": "BRAGA IGNIFUGA"
+    "imagen": "BRAGA IGNIFUGA.png"
   },
   {
     "codigo": "CONJUNTO KIMONO",
@@ -1293,7 +1293,7 @@
     "descripcion": "Conjunto kimono confeccionado en tela drill",
     "tallas": "S/M/L/XL/2XL",
     "precio": 20.8,
-    "imagen": "CONJUNTO KIMONO"
+    "imagen": "CONJUNTO KIMONO.png"
   },
   {
     "codigo": "CONJUNTO KIMONO2",
@@ -1302,7 +1302,7 @@
     "descripcion": "Conjunto kimono confeccionado en microfibra",
     "tallas": "S/M/L/XL/2XL",
     "precio": 16.9,
-    "imagen": "CONJUNTO KIMONO2"
+    "imagen": "CONJUNTO KIMONO2.png"
   },
   {
     "codigo": "BATA DE LABORATORIO",
@@ -1311,7 +1311,7 @@
     "descripcion": "Bata de laboratorio confeccionada en tela drill",
     "tallas": "S/M/L/XL/2XL",
     "precio": 18.2,
-    "imagen": "BATA DE LABORATORIO"
+    "imagen": "BATA DE LABORATORIO.png"
   },
   {
     "codigo": "CHAQUETA",
@@ -1320,7 +1320,7 @@
     "descripcion": "Chaqueta de cabero con capucha",
     "tallas": "S/M/L/XL/2XL",
     "precio": 58.5,
-    "imagen": "CHAQUETA"
+    "imagen": "CHAQUETA.png"
   },
   {
     "codigo": "CAMISA DE SOLDADOR",
@@ -1329,7 +1329,7 @@
     "descripcion": "Camisa para soldador confeccionada en tela jean",
     "tallas": "S/M/L/XL/2XL",
     "precio": 23.49,
-    "imagen": "CAMISA DE SOLDADOR"
+    "imagen": "CAMISA DE SOLDADOR.png"
   },
   {
     "codigo": "CAMISA PARA OBRERO",
@@ -1338,7 +1338,7 @@
     "descripcion": "Camisa para obrero confeccionada en tela drill",
     "tallas": "S/M/L/XL/2XL",
     "precio": 16.9,
-    "imagen": "CAMISA PARA OBRERO"
+    "imagen": "CAMISA PARA OBRERO.png"
   },
   {
     "codigo": "PANTALON",
@@ -1347,7 +1347,7 @@
     "descripcion": "Pantalón táctico con refuerzo y cinta reflectiva",
     "tallas": "S/M/L/XL/2XL",
     "precio": 35.1,
-    "imagen": "PANTALON"
+    "imagen": "PANTALON.png"
   },
   {
     "codigo": "PANTALON2",
@@ -1356,7 +1356,7 @@
     "descripcion": "Pantalón táctico sin refuerzo",
     "tallas": "S/M/L/XL/2XL",
     "precio": 32.5,
-    "imagen": "PANTALON2"
+    "imagen": "PANTALON2.png"
   },
   {
     "codigo": "DELANTAL",
@@ -1365,7 +1365,7 @@
     "descripcion": "Delantal de vinil blanco, medidas: altura 1,15mt x 0,59mts de ancho",
     "tallas": "Única",
     "precio": 8.71,
-    "imagen": "DELANTAL"
+    "imagen": "DELANTAL.png"
   },
   {
     "codigo": "DELANTAL2",
@@ -1374,7 +1374,7 @@
     "descripcion": "Delantal de vinil negro, medidas: altura 1,16m de ancho mt x 0,59mts",
     "tallas": "Única",
     "precio": 7.8,
-    "imagen": "DELANTAL2"
+    "imagen": "DELANTAL2.png"
   },
   {
     "codigo": "IC01001",
@@ -1383,7 +1383,7 @@
     "descripcion": "Delantal para soldadura, largo 70 cm",
     "tallas": "Única",
     "precio": 4.91,
-    "imagen": "IC01001"
+    "imagen": "IC01001.png"
   },
   {
     "codigo": "IC01007",
@@ -1392,7 +1392,7 @@
     "descripcion": "Delantal para soldadura, largo 90 cm",
     "tallas": "Única",
     "precio": 6.63,
-    "imagen": "IC01007"
+    "imagen": "IC01007.png"
   },
   {
     "codigo": "IC01007-2",
@@ -1401,7 +1401,7 @@
     "descripcion": "Delantal para soldadura, largo 1.20 cm",
     "tallas": "Única",
     "precio": 10.54,
-    "imagen": "IC01007-2"
+    "imagen": "IC01007-2.png"
   },
   {
     "codigo": "IC01001-2",
@@ -1410,7 +1410,7 @@
     "descripcion": "Delantal en vaqueta, largo 1.20 cm",
     "tallas": "Única",
     "precio": 11.05,
-    "imagen": "IC01001-2"
+    "imagen": "IC01001-2.png"
   },
   {
     "codigo": "UA7M14T601-U",
@@ -1419,7 +1419,7 @@
     "descripcion": "Delantal de vinil blanco",
     "tallas": "Única",
     "precio": 8.11,
-    "imagen": "UA7M14T601-U"
+    "imagen": "UA7M14T601-U.png"
   },
   {
     "codigo": "UA7M14T604-U",
@@ -1428,7 +1428,7 @@
     "descripcion": "Delantal de vinil negro",
     "tallas": "Única",
     "precio": 8.84,
-    "imagen": "UA7M14T604-U"
+    "imagen": "UA7M14T604-U.png"
   },
   {
     "codigo": "IC01004-1",
@@ -1437,7 +1437,7 @@
     "descripcion": "Polaina para soldar, marca Intool",
     "tallas": "Única",
     "precio": 6.63,
-    "imagen": "IC01004-1"
+    "imagen": "IC01004-1.png"
   },
   {
     "codigo": "IC01004",
@@ -1446,7 +1446,7 @@
     "descripcion": "Polaina en carnaza para soldador",
     "tallas": "Única",
     "precio": 6.29,
-    "imagen": "IC01004"
+    "imagen": "IC01004.png"
   },
   {
     "codigo": "IC01002",
@@ -1455,7 +1455,7 @@
     "descripcion": "Chaleco de carnaza sencillo para soldadura",
     "tallas": "Única",
     "precio": 16.95,
-    "imagen": "IC01002"
+    "imagen": "IC01002.png"
   },
   {
     "codigo": "IC01008",
@@ -1464,7 +1464,7 @@
     "descripcion": "Manga para soldar INTOOL",
     "tallas": "Única",
     "precio": 5.88,
-    "imagen": "IC01008"
+    "imagen": "IC01008.png"
   },
   {
     "codigo": "IC01003-2",
@@ -1473,7 +1473,7 @@
     "descripcion": "Mangas de carnaza para soldador",
     "tallas": "Única",
     "precio": 6.29,
-    "imagen": "IC01003-2"
+    "imagen": "IC01003-2.png"
   },
   {
     "codigo": "BRAIM-COVE",
@@ -1482,7 +1482,7 @@
     "descripcion": "Bragas desechables de bioseguridad importada",
     "tallas": "M/L/XL/2XL",
     "precio": 2.95,
-    "imagen": "BRAIM-COVE"
+    "imagen": "BRAIM-COVE.png"
   },
   {
     "codigo": "BRATY",
@@ -1491,7 +1491,7 @@
     "descripcion": "Braga tipo Tyvek, marca Intool",
     "tallas": "M/L/XL/2XL",
     "precio": 2.95,
-    "imagen": "BRATY"
+    "imagen": "BRATY.png"
   },
   {
     "codigo": "APICU",
@@ -1500,7 +1500,7 @@
     "descripcion": "Traje de apicultor, talla M/L/XL/2XL, con capucha y guantes",
     "tallas": "M/L/XL/2XL",
     "precio": 198.9,
-    "imagen": "APICU"
+    "imagen": "APICU.png"
   },
   {
     "codigo": "IMPGABN",
@@ -1509,7 +1509,7 @@
     "descripcion": "Impermeable negro dos partes motorizado con cinta reflectiva",
     "tallas": "S/M/L/XL/2XL",
     "precio": 15.2,
-    "imagen": "IMPGABN"
+    "imagen": "IMPGABN.png"
   },
   {
     "codigo": "IMPMOTN",
@@ -1518,7 +1518,7 @@
     "descripcion": "Impermeable negro tipo gabán",
     "tallas": "S/LM/L/XL/2XL",
     "precio": 8.71,
-    "imagen": "IMPMOTN"
+    "imagen": "IMPMOTN.png"
   },
   {
     "codigo": "IMPON",
@@ -1527,7 +1527,7 @@
     "descripcion": "Impermeable tipo poncho de emergencia",
     "tallas": "Única",
     "precio": 2.39,
-    "imagen": "IMPON"
+    "imagen": "IMPON.png"
   },
   {
     "codigo": "IMPPON-L",
@@ -1536,7 +1536,7 @@
     "descripcion": "Impermeable poncho talla L, marca Intool",
     "tallas": "L",
     "precio": 7.18,
-    "imagen": "IMPPON-L"
+    "imagen": "IMPPON-L.png"
   },
   {
     "codigo": "MA400IMP",
@@ -1545,7 +1545,7 @@
     "descripcion": "Impermeable tipo gabán, marca Delta",
     "tallas": "S/M/L/XL/2XL",
     "precio": 8.84,
-    "imagen": "MA400IMP"
+    "imagen": "MA400IMP.png"
   },
   {
     "codigo": "IMPGAB",
@@ -1554,7 +1554,7 @@
     "descripcion": "Impermeable tipo gabán, marca Intool",
     "tallas": "S/M/L/XL/2XL",
     "precio": 8.3,
-    "imagen": "IMPGAB"
+    "imagen": "IMPGAB.png"
   },
   {
     "codigo": "010215-M",
@@ -1563,7 +1563,7 @@
     "descripcion": "Impermeable tipo motorizado, marca Intool, talla M",
     "tallas": "M",
     "precio": 10.32,
-    "imagen": "010215-M"
+    "imagen": "010215-M.png"
   },
   {
     "codigo": "010216-L",
@@ -1572,7 +1572,7 @@
     "descripcion": "Impermeable tipo motorizado, marca Intool, talla L",
     "tallas": "L",
     "precio": 10.32,
-    "imagen": "010216-L"
+    "imagen": "010216-L.png"
   },
   {
     "codigo": "010217-XL",
@@ -1581,7 +1581,7 @@
     "descripcion": "Impermeable tipo motorizado, marca Intool, talla XL",
     "tallas": "XL",
     "precio": 10.32,
-    "imagen": "010217-XL"
+    "imagen": "010217-XL.png"
   },
   {
     "codigo": "010218-2XL",
@@ -1590,7 +1590,7 @@
     "descripcion": "Impermeable tipo motorizado, marca Intool, talla 2XL",
     "tallas": "2XL",
     "precio": 10.32,
-    "imagen": "010218-2XL"
+    "imagen": "010218-2XL.png"
   },
   {
     "codigo": "MA208IMP",
@@ -1599,7 +1599,7 @@
     "descripcion": "Impermeable tipo gabán alta visibilidad, marca Delta",
     "tallas": "S/M/L/XL/2XL",
     "precio": 14.0,
-    "imagen": "MA208IMP"
+    "imagen": "MA208IMP.png"
   },
   {
     "codigo": "EN400IMP",
@@ -1608,7 +1608,7 @@
     "descripcion": "Impermeable tipo motorizado, marca Delta",
     "tallas": "S/M/L/XL/2XL",
     "precio": 9.58,
-    "imagen": "EN400IMP"
+    "imagen": "EN400IMP.png"
   },
   {
     "codigo": "CHALEN",
@@ -1617,7 +1617,7 @@
     "descripcion": "Chaleco vial disponible en verde y anaranjado, marca Intool",
     "tallas": "S/M/L/XL/2XL",
     "precio": 1.54,
-    "imagen": "CHALEN"
+    "imagen": "CHALEN.png"
   },
   {
     "codigo": "CHAJU",
@@ -1626,7 +1626,7 @@
     "descripcion": "Chaleco ajustable tipo arnés reflectivo",
     "tallas": "Única",
     "precio": 3.67,
-    "imagen": "CHAJU"
+    "imagen": "CHAJU.png"
   },
   {
     "codigo": "CHALEN2",
@@ -1635,7 +1635,7 @@
     "descripcion": "Chaleco verde y anaranjado con bolsillo, marca Intool",
     "tallas": "S/M/L/XL/2XL",
     "precio": 3.53,
-    "imagen": "CHALEN2"
+    "imagen": "CHALEN2.png"
   },
   {
     "codigo": "SIA1305",
@@ -1644,7 +1644,7 @@
     "descripcion": "Chaleco vial importado",
     "tallas": "S/M/L/XL/2XL",
     "precio": 2.21,
-    "imagen": "SIA1305"
+    "imagen": "SIA1305.png"
   },
   {
     "codigo": "SIA1206",
@@ -1653,7 +1653,7 @@
     "descripcion": "Chaleco vial, marca Ironwearts",
     "tallas": "S/M/L/XL/2XL",
     "precio": 2.21,
-    "imagen": "SIA1206"
+    "imagen": "SIA1206.png"
   },
   {
     "codigo": "SIA1401",
@@ -1662,7 +1662,7 @@
     "descripcion": "Chaleco escolar color anaranjado",
     "tallas": "Única",
     "precio": 1.4,
-    "imagen": "SIA1401"
+    "imagen": "SIA1401.png"
   },
   {
     "codigo": "SI02001",
@@ -1671,7 +1671,7 @@
     "descripcion": "Salvavidas Sea Horse",
     "tallas": "Única",
     "precio": 45.69,
-    "imagen": "SI02001"
+    "imagen": "SI02001.png"
   },
   {
     "codigo": "CHALE-SALVA",
@@ -1680,7 +1680,7 @@
     "descripcion": "Chaleco salvavidas marino color rojo",
     "tallas": "Única",
     "precio": 46.78,
-    "imagen": "CHALE-SALVA"
+    "imagen": "CHALE-SALVA.png"
   },
   {
     "codigo": "CHALE-C",
@@ -1689,7 +1689,7 @@
     "descripcion": "Chaleco salvavidas común color anaranjado",
     "tallas": "Única",
     "precio": 27.98,
-    "imagen": "CHALE-C"
+    "imagen": "CHALE-C.png"
   },
   {
     "codigo": "SALVA-D",
@@ -1698,7 +1698,7 @@
     "descripcion": "Salvavidas de abandono frontal tipo herradura, marca Intool",
     "tallas": "Única",
     "precio": 33.9,
-    "imagen": "SALVA-D"
+    "imagen": "SALVA-D.png"
   },
   {
     "codigo": "SALVA-CE",
@@ -1707,7 +1707,7 @@
     "descripcion": "Salvavidas deportivo color celeste",
     "tallas": "Única",
     "precio": 36.47,
-    "imagen": "SALVA-CE"
+    "imagen": "SALVA-CE.png"
   },
   {
     "codigo": "SALVA-NA",
@@ -1716,7 +1716,7 @@
     "descripcion": "Salvavidas deportivo color naranja",
     "tallas": "Única",
     "precio": 36.47,
-    "imagen": "SALVA-NA"
+    "imagen": "SALVA-NA.png"
   },
   {
     "codigo": "SALVA-RO",
@@ -1725,7 +1725,7 @@
     "descripcion": "Salvavidas deportivo",
     "tallas": "Única",
     "precio": 36.47,
-    "imagen": "SALVA-RO"
+    "imagen": "SALVA-RO.png"
   },
   {
     "codigo": "SALVA",
@@ -1734,7 +1734,7 @@
     "descripcion": "Salvavidas para niño",
     "tallas": "Única",
     "precio": 35.37,
-    "imagen": "SALVA"
+    "imagen": "SALVA.png"
   },
   {
     "codigo": "CAMISAS SUPERVISOR 1",
@@ -1743,7 +1743,7 @@
     "descripcion": "Camisa tipo supervisor en tela algodón egipcio con 1 logo peq. bord.",
     "tallas": "XS-3XL",
     "precio": 19.5,
-    "imagen": "CAMISAS SUPERVISOR 1"
+    "imagen": "CAMISAS SUPERVISOR 1.png"
   },
   {
     "codigo": "CAMISAS SUPERVISOR 2",
@@ -1752,7 +1752,7 @@
     "descripcion": "Camisa tipo supervisor en tela Oxford con 1 logo peq. bord.",
     "tallas": "XS-3XL",
     "precio": 19.5,
-    "imagen": "CAMISAS SUPERVISOR 2"
+    "imagen": "CAMISAS SUPERVISOR 2.png"
   },
   {
     "codigo": "CAMISAS SUPERVISOR 3",
@@ -1761,7 +1761,7 @@
     "descripcion": "Camisa tipo supervisor en tela Novak con 1 logo peq. bord.",
     "tallas": "XS-3XL",
     "precio": 19.5,
-    "imagen": "CAMISAS SUPERVISOR 3"
+    "imagen": "CAMISAS SUPERVISOR 3.png"
   },
   {
     "codigo": "CAMISAS SUPERVISOR 4",
@@ -1770,7 +1770,7 @@
     "descripcion": "Camisa tipo supervisor en tela Taslan con 1 logo peq. bord.",
     "tallas": "XS-3XL",
     "precio": 16.9,
-    "imagen": "CAMISAS SUPERVISOR 4"
+    "imagen": "CAMISAS SUPERVISOR 4.png"
   },
   {
     "codigo": "CAMISA COLUMBIA 1",
@@ -1779,7 +1779,7 @@
     "descripcion": "Camisa tipo Columbia en tela algodón egipcio con 1 logo peq. bord.",
     "tallas": "XS-3XL",
     "precio": 20.8,
-    "imagen": "CAMISA COLUMBIA 1"
+    "imagen": "CAMISA COLUMBIA 1.png"
   },
   {
     "codigo": "CAMISA COLUMBIA 2",
@@ -1788,7 +1788,7 @@
     "descripcion": "Camisa tipo Columbia en tela Oxford con 1 logo peq. bord.",
     "tallas": "XS-3XL",
     "precio": 20.8,
-    "imagen": "CAMISA COLUMBIA 2"
+    "imagen": "CAMISA COLUMBIA 2.png"
   },
   {
     "codigo": "CAMISA COLUMBIA 3",
@@ -1797,7 +1797,7 @@
     "descripcion": "Camisa tipo Columbia en tela Taslan con 1 logo peq. bord.",
     "tallas": "XS-3XL",
     "precio": 18.2,
-    "imagen": "CAMISA COLUMBIA 3"
+    "imagen": "CAMISA COLUMBIA 3.png"
   },
   {
     "codigo": "CHEMIS",
@@ -1806,7 +1806,7 @@
     "descripcion": "Chemis en tela atlética con 1 logo peq. bord.",
     "tallas": "XS-3XL",
     "precio": 12.99,
-    "imagen": "CHEMIS"
+    "imagen": "CHEMIS.png"
   },
   {
     "codigo": "CHEMIS DE ARMENI",
@@ -1815,7 +1815,7 @@
     "descripcion": "Chemis de Armeni con 1 logo peq. bord.",
     "tallas": "XS-3XL",
     "precio": 17.29,
-    "imagen": "CHEMIS DE ARMENI"
+    "imagen": "CHEMIS DE ARMENI.png"
   },
   {
     "codigo": "CHEMIS PIQUET",
@@ -1824,7 +1824,7 @@
     "descripcion": "Chemis en tela piquet con 1 logo peq. bord.",
     "tallas": "XS-3XL",
     "precio": 19.5,
-    "imagen": "CHEMIS PIQUET"
+    "imagen": "CHEMIS PIQUET.png"
   },
   {
     "codigo": "FRANELA ALGODÓN",
@@ -1833,7 +1833,7 @@
     "descripcion": "Franela de algodón cuello redondo",
     "tallas": "XS-3XL",
     "precio": 6.5,
-    "imagen": "FRANELA ALGODÓN"
+    "imagen": "FRANELA ALGODÓN.png"
   },
   {
     "codigo": "FRANELA",
@@ -1842,7 +1842,7 @@
     "descripcion": "Franela en tela atlética",
     "tallas": "XS-3XL",
     "precio": 10.4,
-    "imagen": "FRANELA"
+    "imagen": "FRANELA.png"
   },
   {
     "codigo": "JEAN DAMA1",
@@ -1851,7 +1851,7 @@
     "descripcion": "Jean strech de dama, tallas 06 al 18",
     "tallas": "06-18",
     "precio": 15.6,
-    "imagen": "JEAN DAMA1"
+    "imagen": "JEAN DAMA1.png"
   },
   {
     "codigo": "JEAN DAMA2",
@@ -1860,7 +1860,7 @@
     "descripcion": "Jean strech de dama, tallas 22 al 32",
     "tallas": "22-32",
     "precio": 18.2,
-    "imagen": "JEAN DAMA2"
+    "imagen": "JEAN DAMA2.png"
   },
   {
     "codigo": "JEAN DAMA3",
@@ -1869,7 +1869,7 @@
     "descripcion": "Jean strech de dama, tallas 22 al 32 (continuación)",
     "tallas": "22-32",
     "precio": 19.5,
-    "imagen": "JEAN DAMA3"
+    "imagen": "JEAN DAMA3.png"
   },
   {
     "codigo": "JEAN CABALLERO1",
@@ -1878,7 +1878,7 @@
     "descripcion": "Jean triple costura para caballero, tallas 28 al 36",
     "tallas": "28-36",
     "precio": 13.1,
-    "imagen": "JEAN CABALLERO1"
+    "imagen": "JEAN CABALLERO1.png"
   },
   {
     "codigo": "JEAN CABALLERO2",
@@ -1887,7 +1887,7 @@
     "descripcion": "Jean triple costura para caballero, tallas 38 al 46",
     "tallas": "38-46",
     "precio": 15.6,
-    "imagen": "JEAN CABALLERO2"
+    "imagen": "JEAN CABALLERO2.png"
   },
   {
     "codigo": "JEAN CABALLERO3",
@@ -1896,7 +1896,7 @@
     "descripcion": "Jean triple costura para caballero, tallas 48 al 56",
     "tallas": "48-56",
     "precio": 18.2,
-    "imagen": "JEAN CABALLERO3"
+    "imagen": "JEAN CABALLERO3.png"
   },
   {
     "codigo": "JEAN CABALLERO4",
@@ -1905,7 +1905,7 @@
     "descripcion": "Jean triple costura para caballero, talla 58",
     "tallas": "58",
     "precio": 20.8,
-    "imagen": "JEAN CABALLERO4"
+    "imagen": "JEAN CABALLERO4.png"
   },
   {
     "codigo": "GORRAS ACRILICAS",
@@ -1914,7 +1914,7 @@
     "descripcion": "Gorras acrílicas con 1 logo pequeño bordado",
     "tallas": "Unica",
     "precio": 6.5,
-    "imagen": "GORRAS ACRILICAS"
+    "imagen": "GORRAS ACRILICAS.png"
   },
   {
     "codigo": "GORRAS DE MALLA",
@@ -1923,7 +1923,7 @@
     "descripcion": "Gorras de malla con logo pequeño bordado",
     "tallas": "Unica",
     "precio": 6.5,
-    "imagen": "GORRAS DE MALLA"
+    "imagen": "GORRAS DE MALLA.png"
   },
   {
     "codigo": "LOGO PEQUEÑO",
@@ -1932,7 +1932,7 @@
     "descripcion": "Logo pequeño bordado sencillo",
     "tallas": "Unica",
     "precio": 1.95,
-    "imagen": "LOGO PEQUEÑO"
+    "imagen": "LOGO PEQUEÑO.png"
   },
   {
     "codigo": "LOGO GRANDE",
@@ -1941,7 +1941,7 @@
     "descripcion": "Logo grande bordado sencillo",
     "tallas": "Unica",
     "precio": 3.9,
-    "imagen": "LOGO GRANDE"
+    "imagen": "LOGO GRANDE.png"
   },
   {
     "codigo": "DIGITALIZACION",
@@ -1950,7 +1950,7 @@
     "descripcion": "Servicio de digitalización de logo para bordado",
     "tallas": "Unica",
     "precio": 5.2,
-    "imagen": "DIGITALIZACION"
+    "imagen": "DIGITALIZACION.png"
   },
   {
     "codigo": "SILVA-NA",
@@ -1959,7 +1959,7 @@
     "descripcion": "Silvato de seguridad color anaranjado",
     "tallas": "",
     "precio": 1.32,
-    "imagen": "SILVA-NA"
+    "imagen": "SILVA-NA.png"
   },
   {
     "codigo": "SALVA-TOR",
@@ -1968,7 +1968,7 @@
     "descripcion": "Salvavidas torpedo tipo Baywatch",
     "tallas": "",
     "precio": 38.32,
-    "imagen": "SALVA-TOR"
+    "imagen": "SALVA-TOR.png"
   },
   {
     "codigo": "CAMI-RE",
@@ -1977,7 +1977,7 @@
     "descripcion": "Lente de supervisor Thunder c/funda y cuerda marca Delta",
     "tallas": "",
     "precio": 139.0,
-    "imagen": "CAMI-RE"
+    "imagen": "CAMI-RE.png"
   },
   {
     "codigo": "REFLECG-1",
@@ -1986,7 +1986,7 @@
     "descripcion": "Cinta reflectiva gris, ancho 1 pulgada, TC Intool, rollo 100 metros",
     "tallas": "",
     "precio": 22.11,
-    "imagen": "REFLECG-1"
+    "imagen": "REFLECG-1.png"
   },
   {
     "codigo": "REFLECG-2",
@@ -1995,7 +1995,7 @@
     "descripcion": "Cinta reflectiva gris, ancho 2 pulgadas, TC Intool, rollo 100 metros",
     "tallas": "",
     "precio": 36.84,
-    "imagen": "REFLECG-2"
+    "imagen": "REFLECG-2.png"
   },
   {
     "codigo": "REFLECP-1",
@@ -2004,7 +2004,7 @@
     "descripcion": "Cinta reflectiva plata ignífuga, ancho 1 pulgada, Intool, rollo 100 metros",
     "tallas": "",
     "precio": 42.86,
-    "imagen": "REFLECP-1"
+    "imagen": "REFLECP-1.png"
   },
   {
     "codigo": "REFLECP-2",
@@ -2013,7 +2013,7 @@
     "descripcion": "Cinta reflectiva plata ignífuga, ancho 2 pulgadas, Intool, rollo 100 metros",
     "tallas": "",
     "precio": 85.48,
-    "imagen": "REFLECP-2"
+    "imagen": "REFLECP-2.png"
   },
   {
     "codigo": "REFLEC-1",
@@ -2022,7 +2022,7 @@
     "descripcion": "Cinta reflectiva de poliéster, ancho 2 pulgadas, colores, rollo 100 metros",
     "tallas": "",
     "precio": 29.48,
-    "imagen": "REFLEC-1"
+    "imagen": "REFLEC-1.png"
   },
   {
     "codigo": "REFLEC-2",
@@ -2031,7 +2031,7 @@
     "descripcion": "Cinta reflectiva ignífuga, ancho 2 pulgadas, colores, rollo 100 metros",
     "tallas": "",
     "precio": 97.48,
-    "imagen": "REFLEC-2"
+    "imagen": "REFLEC-2.png"
   },
   {
     "codigo": "CINTA-AM",
@@ -2040,7 +2040,7 @@
     "descripcion": "Cinta de señalización amarilla Peligro No Pase, 4 pulgadas x 300 metros",
     "tallas": "",
     "precio": 16.21,
-    "imagen": "CINTA-AM"
+    "imagen": "CINTA-AM.png"
   },
   {
     "codigo": "CINTA-RO",
@@ -2049,7 +2049,7 @@
     "descripcion": "Cinta de señalización roja Peligro No Pase, 4 pulgadas x 300 metros",
     "tallas": "",
     "precio": 16.21,
-    "imagen": "CINTA-RO"
+    "imagen": "CINTA-RO.png"
   },
   {
     "codigo": "CINT-PRE300",
@@ -2058,7 +2058,7 @@
     "descripcion": "Cinta de señalización roja Peligro No Pase, 3 pulgadas x 300 metros",
     "tallas": "",
     "precio": 16.21,
-    "imagen": "CINT-PRE300"
+    "imagen": "CINT-PRE300.png"
   },
   {
     "codigo": "CINTR-250",
@@ -2067,7 +2067,7 @@
     "descripcion": "Cinta de precaución Danger color rojo, 3 pulgadas x 250 metros",
     "tallas": "",
     "precio": 9.11,
-    "imagen": "CINTR-250"
+    "imagen": "CINTR-250.png"
   },
   {
     "codigo": "CINT-200ZA",
@@ -2076,7 +2076,7 @@
     "descripcion": "Cinta de precaución amarilla ZASC, 3 pulgadas x 200 metros",
     "tallas": "",
     "precio": 9.11,
-    "imagen": "CINT-200ZA"
+    "imagen": "CINT-200ZA.png"
   },
   {
     "codigo": "CINT-240",
@@ -2085,7 +2085,7 @@
     "descripcion": "Cinta de precaución amarilla, rollo 240 metros",
     "tallas": "",
     "precio": 9.11,
-    "imagen": "CINT-240"
+    "imagen": "CINT-240.png"
   },
   {
     "codigo": "CINTC393",
@@ -2094,7 +2094,7 @@
     "descripcion": "Cinta de precaución roja/blanca C393, rollo 91 metros",
     "tallas": "",
     "precio": 2.21,
-    "imagen": "CINTC393"
+    "imagen": "CINTC393.png"
   },
   {
     "codigo": "CINTZA-AN",
@@ -2103,7 +2103,7 @@
     "descripcion": "Cinta antideslizante amarillo con negro, rollo 5 metros",
     "tallas": "",
     "precio": 4.19,
-    "imagen": "CINTZA-AN"
+    "imagen": "CINTZA-AN.png"
   },
   {
     "codigo": "CINTZA-N",
@@ -2112,7 +2112,7 @@
     "descripcion": "Cinta antideslizante negra ZASC, rollo 5 metros",
     "tallas": "",
     "precio": 3.53,
-    "imagen": "CINTZA-N"
+    "imagen": "CINTZA-N.png"
   },
   {
     "codigo": "CINT-N",
@@ -2121,7 +2121,7 @@
     "descripcion": "Cinta antideslizante negra ZASC, 24mm x 5 metros",
     "tallas": "",
     "precio": 2.21,
-    "imagen": "CINT-N"
+    "imagen": "CINT-N.png"
   },
   {
     "codigo": "CINT-PRECA",
@@ -2130,7 +2130,7 @@
     "descripcion": "Cinta de precaución amarilla y negra autoadhesiva",
     "tallas": "",
     "precio": 8.69,
-    "imagen": "CINT-PRECA"
+    "imagen": "CINT-PRECA.png"
   },
   {
     "codigo": "PROT-ESTA",
@@ -2139,7 +2139,7 @@
     "descripcion": "Protector de estacionamiento con cinta reflectiva",
     "tallas": "",
     "precio": 12.94,
-    "imagen": "PROT-ESTA"
+    "imagen": "PROT-ESTA.png"
   },
   {
     "codigo": "CINTA-ANTI",
@@ -2148,7 +2148,7 @@
     "descripcion": "Cinta antirresbalante para piso marca Barckly, 61 x 15 cm",
     "tallas": "",
     "precio": 5.9,
-    "imagen": "CINTA-ANTI"
+    "imagen": "CINTA-ANTI.png"
   },
   {
     "codigo": "CONO-ACO",
@@ -2157,7 +2157,7 @@
     "descripcion": "Cono de seguridad 14 pulgadas tipo acordión, precio sujeto a cambio",
     "tallas": "",
     "precio": 6.61,
-    "imagen": "CONO-ACO"
+    "imagen": "CONO-ACO.png"
   },
   {
     "codigo": "CONO-VE",
@@ -2166,7 +2166,7 @@
     "descripcion": "Cono verde 27 pulgadas con doble cinta reflectiva",
     "tallas": "",
     "precio": 14.74,
-    "imagen": "CONO-VE"
+    "imagen": "CONO-VE.png"
   },
   {
     "codigo": "SICNAR04-2",
@@ -2175,7 +2175,7 @@
     "descripcion": "Cono vial de PVC, 28 pulgadas",
     "tallas": "",
     "precio": 11.790000000000001,
-    "imagen": "SICNAR04-2"
+    "imagen": "SICNAR04-2.png"
   },
   {
     "codigo": "CONO-NA",
@@ -2184,7 +2184,7 @@
     "descripcion": "Cono anaranjado 28 pulgadas con doble cinta reflectiva, marca Intool",
     "tallas": "",
     "precio": 14.74,
-    "imagen": "CONO-NA"
+    "imagen": "CONO-NA.png"
   },
   {
     "codigo": "CONO-NA2",
@@ -2193,7 +2193,7 @@
     "descripcion": "Cono anaranjado 36 pulgadas con doble cinta reflectiva, Uyustools Intool",
     "tallas": "",
     "precio": 22.11,
-    "imagen": "CONO-NA2"
+    "imagen": "CONO-NA2.png"
   },
   {
     "codigo": "CONO",
@@ -2202,7 +2202,7 @@
     "descripcion": "Cono anaranjado 36 pulgadas con doble cinta reflectiva",
     "tallas": "",
     "precio": 19.16,
-    "imagen": "CONO"
+    "imagen": "CONO.png"
   },
   {
     "codigo": "CONO-PO",
@@ -2211,7 +2211,7 @@
     "descripcion": "Cono tipo poste con cinta reflectiva",
     "tallas": "",
     "precio": 24.84,
-    "imagen": "CONO-PO"
+    "imagen": "CONO-PO.png"
   },
   {
     "codigo": "BARRIL",
@@ -2220,7 +2220,7 @@
     "descripcion": "Barril vial con cinta reflectiva",
     "tallas": "",
     "precio": 88.42999999999999,
-    "imagen": "BARRIL"
+    "imagen": "BARRIL.png"
   },
   {
     "codigo": "LUZ",
@@ -2229,7 +2229,7 @@
     "descripcion": "Luz de advertencia solar para señalización vial",
     "tallas": "",
     "precio": 8.84,
-    "imagen": "LUZ"
+    "imagen": "LUZ.png"
   },
   {
     "codigo": "LUZ-1",
@@ -2238,7 +2238,7 @@
     "descripcion": "Luz de señalización tipo bastón",
     "tallas": "",
     "precio": 7.02,
-    "imagen": "LUZ-1"
+    "imagen": "LUZ-1.png"
   },
   {
     "codigo": "MASCA-FER",
@@ -2247,7 +2247,7 @@
     "descripcion": "Caja de 50 unidades",
     "tallas": "",
     "precio": 7.37,
-    "imagen": "MASCA-FER"
+    "imagen": "MASCA-FER.jpg"
   },
   {
     "codigo": "MAQ007",
@@ -2256,7 +2256,7 @@
     "descripcion": "Caja de 50 unidades",
     "tallas": "",
     "precio": 7.37,
-    "imagen": "MAQ007"
+    "imagen": "MAQ007.jpg"
   },
   {
     "codigo": "MA8210",
@@ -2265,7 +2265,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 1.61,
-    "imagen": "MA8210"
+    "imagen": "MA8210.jpg"
   },
   {
     "codigo": "MA1860",
@@ -2274,7 +2274,7 @@
     "descripcion": "Por unidad - Precio sujeto a cambio",
     "tallas": "",
     "precio": 1.76,
-    "imagen": "MA1860"
+    "imagen": "MA1860.png"
   },
   {
     "codigo": "MAN95-B",
@@ -2283,7 +2283,7 @@
     "descripcion": "Caja de 20 und - Facturar por unidad",
     "tallas": "",
     "precio": 0.68,
-    "imagen": "MAN95-B"
+    "imagen": "MAN95-B.jpg"
   },
   {
     "codigo": "MAN95OV",
@@ -2292,7 +2292,7 @@
     "descripcion": "Caja de 10 und - Facturar por unidad",
     "tallas": "",
     "precio": 1.22,
-    "imagen": "MAN95OV"
+    "imagen": "MAN95OV.png"
   },
   {
     "codigo": "MAN95V",
@@ -2301,7 +2301,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 1.02,
-    "imagen": "MAN95V"
+    "imagen": "MAN95V.jpg"
   },
   {
     "codigo": "MAN95VOV",
@@ -2310,7 +2310,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 1.44,
-    "imagen": "MAN95VOV"
+    "imagen": "MAN95VOV.jpg"
   },
   {
     "codigo": "MAKN95-N",
@@ -2319,7 +2319,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 7.37,
-    "imagen": "MAKN95-N"
+    "imagen": "MAKN95-N.jpg"
   },
   {
     "codigo": "MAKN95-B",
@@ -2328,7 +2328,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 7.07,
-    "imagen": "MAKN95-B"
+    "imagen": "MAKN95-B.jpg"
   },
   {
     "codigo": "MASNITTA-B",
@@ -2337,7 +2337,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 0.37,
-    "imagen": "MASNITTA-B"
+    "imagen": "MASNITTA-B.jpg"
   },
   {
     "codigo": "MASC-NIOSH",
@@ -2346,7 +2346,7 @@
     "descripcion": "Caja de 20 unidades",
     "tallas": "",
     "precio": 4.32,
-    "imagen": "MASC-NIOSH"
+    "imagen": "MASC-NIOSH.jpg"
   },
   {
     "codigo": "MABRATOOLS-1",
@@ -2355,7 +2355,7 @@
     "descripcion": "Caja de 50 unidades",
     "tallas": "",
     "precio": 25.05,
-    "imagen": "MABRATOOLS-1"
+    "imagen": "MABRATOOLS-1.jpg"
   },
   {
     "codigo": "MAQ0002",
@@ -2364,7 +2364,7 @@
     "descripcion": "50 unidades",
     "tallas": "",
     "precio": 3.67,
-    "imagen": "MAQ0002"
+    "imagen": "MAQ0002.jpg"
   },
   {
     "codigo": "MAQ0004",
@@ -2373,7 +2373,7 @@
     "descripcion": "50 unidades",
     "tallas": "",
     "precio": 3.67,
-    "imagen": "MAQ0004"
+    "imagen": "MAQ0004.jpg"
   },
   {
     "codigo": "MASQ-C",
@@ -2382,7 +2382,7 @@
     "descripcion": "Caja 50 und - Facturar por unidad",
     "tallas": "",
     "precio": 3.67,
-    "imagen": "MASQ-C"
+    "imagen": "MASQ-C.jpg"
   },
   {
     "codigo": "MASQ-N",
@@ -2391,7 +2391,7 @@
     "descripcion": "Caja 50 und - Facturar por unidad",
     "tallas": "",
     "precio": 3.67,
-    "imagen": "MASQ-N"
+    "imagen": "MASQ-N.jpg"
   },
   {
     "codigo": "MAKN95-02",
@@ -2400,7 +2400,7 @@
     "descripcion": "Detal caja de 10 unidades",
     "tallas": "",
     "precio": 8.39,
-    "imagen": "MAKN95-02"
+    "imagen": "MAKN95-02.jpg"
   },
   {
     "codigo": "MASC-GUOYAN",
@@ -2409,7 +2409,7 @@
     "descripcion": "Caja de 50 unidades",
     "tallas": "",
     "precio": 4.71,
-    "imagen": "MASC-GUOYAN"
+    "imagen": "MASC-GUOYAN.jpg"
   },
   {
     "codigo": "MASKINGDAY-C",
@@ -2418,7 +2418,7 @@
     "descripcion": "Paquete de 50 unidades",
     "tallas": "",
     "precio": 4.19,
-    "imagen": "MASKINGDAY-C"
+    "imagen": "MASKINGDAY-C.jpg"
   },
   {
     "codigo": "MASKF94",
@@ -2427,7 +2427,7 @@
     "descripcion": "Caja de 20 unidades",
     "tallas": "",
     "precio": 7.07,
-    "imagen": "MASKF94"
+    "imagen": "MASKF94.jpg"
   },
   {
     "codigo": "MAKF94-C",
@@ -2436,7 +2436,7 @@
     "descripcion": "Caja de 50 und - Detal",
     "tallas": "",
     "precio": 19.65,
-    "imagen": "MAKF94-C"
+    "imagen": "MAKF94-C.jpg"
   },
   {
     "codigo": "MAKF94N",
@@ -2445,7 +2445,7 @@
     "descripcion": "Caja de 50 und - Detal",
     "tallas": "",
     "precio": 19.65,
-    "imagen": "MAKF94N"
+    "imagen": "MAKF94N.jpg"
   },
   {
     "codigo": "MAKN95R",
@@ -2454,7 +2454,7 @@
     "descripcion": "Caja de 10 unidades",
     "tallas": "",
     "precio": 7.7,
-    "imagen": "MAKN95R"
+    "imagen": "MAKN95R.jpg"
   },
   {
     "codigo": "MAKN95C",
@@ -2463,7 +2463,7 @@
     "descripcion": "Caja de 10 unidades",
     "tallas": "",
     "precio": 7.7,
-    "imagen": "MAKN95C"
+    "imagen": "MAKN95C.jpg"
   },
   {
     "codigo": "MASCKN95KIDS",
@@ -2472,7 +2472,7 @@
     "descripcion": "Caja de 20 unidades",
     "tallas": "",
     "precio": 12.59,
-    "imagen": "MASCKN95KIDS"
+    "imagen": "MASCKN95KIDS.jpg"
   },
   {
     "codigo": "MAKN95-01",
@@ -2481,7 +2481,7 @@
     "descripcion": "Caja de 20 unidades",
     "tallas": "",
     "precio": 28.04,
-    "imagen": "MAKN95-01"
+    "imagen": "MAKN95-01.jpg"
   },
   {
     "codigo": "MATRUCK-1",
@@ -2490,7 +2490,7 @@
     "descripcion": "Caja de 20 unidades",
     "tallas": "",
     "precio": 27.9,
-    "imagen": "MATRUCK-1"
+    "imagen": "MATRUCK-1.jpg"
   },
   {
     "codigo": "MAKN95B-3",
@@ -2499,7 +2499,7 @@
     "descripcion": "Caja 20 unidades",
     "tallas": "",
     "precio": 9.8,
-    "imagen": "MAKN95B-3"
+    "imagen": "MAKN95B-3.jpg"
   },
   {
     "codigo": "MAKN95B",
@@ -2508,7 +2508,7 @@
     "descripcion": "Detal caja de 20 unidades",
     "tallas": "",
     "precio": 9.8,
-    "imagen": "MAKN95B"
+    "imagen": "MAKN95B.jpg"
   },
   {
     "codigo": "MASKN95-S",
@@ -2517,7 +2517,7 @@
     "descripcion": "10 unidades",
     "tallas": "",
     "precio": 5.6,
-    "imagen": "MASKN95-S"
+    "imagen": "MASKN95-S.jpg"
   },
   {
     "codigo": "MAKN95B-2",
@@ -2526,7 +2526,7 @@
     "descripcion": "Caja 12 unidades",
     "tallas": "",
     "precio": 4.48,
-    "imagen": "MAKN95B-2"
+    "imagen": "MAKN95B-2.jpg"
   },
   {
     "codigo": "MAKN95P",
@@ -2535,7 +2535,7 @@
     "descripcion": "Detal caja de 5 unidades",
     "tallas": "",
     "precio": 3.51,
-    "imagen": "MAKN95P"
+    "imagen": "MAKN95P.jpg"
   },
   {
     "codigo": "MAKN95H",
@@ -2544,7 +2544,7 @@
     "descripcion": "Detal caja de 5 unidades",
     "tallas": "",
     "precio": 3.51,
-    "imagen": "MAKN95H"
+    "imagen": "MAKN95H.jpg"
   },
   {
     "codigo": "MAKN95N",
@@ -2553,7 +2553,7 @@
     "descripcion": "Detal caja de 20 unidades",
     "tallas": "",
     "precio": 6.99,
-    "imagen": "MAKN95N"
+    "imagen": "MAKN95N.jpg"
   },
   {
     "codigo": "PMAKN95-DEP",
@@ -2562,7 +2562,7 @@
     "descripcion": "Por unidad, Rosada/Negra/Gris/Roja/Azul",
     "tallas": "",
     "precio": 3.67,
-    "imagen": "PMAKN95-DEP"
+    "imagen": "PMAKN95-DEP.jpg"
   },
   {
     "codigo": "MAKN95-DEP",
@@ -2571,7 +2571,7 @@
     "descripcion": "A partir de 12 unidades",
     "tallas": "",
     "precio": 4.42,
-    "imagen": "MAKN95-DEP"
+    "imagen": "MAKN95-DEP.jpg"
   },
   {
     "codigo": "PREKN95",
@@ -2580,7 +2580,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 0.36,
-    "imagen": "PREKN95"
+    "imagen": "PREKN95.jpg"
   },
   {
     "codigo": "MA6200",
@@ -2589,7 +2589,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 24.5,
-    "imagen": "MA6200"
+    "imagen": "MA6200.jpg"
   },
   {
     "codigo": "MA6800",
@@ -2598,7 +2598,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 190.0,
-    "imagen": "MA6800"
+    "imagen": "MA6800.jpg"
   },
   {
     "codigo": "MA7051",
@@ -2607,7 +2607,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 26.0,
-    "imagen": "MA7051"
+    "imagen": "MA7051.jpg"
   },
   {
     "codigo": "MAAR8000",
@@ -2616,7 +2616,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 14.0,
-    "imagen": "MAAR8000"
+    "imagen": "MAAR8000.jpg"
   },
   {
     "codigo": "MA6738351",
@@ -2625,7 +2625,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 21.1,
-    "imagen": "MA6738351"
+    "imagen": "MA6738351.jpg"
   },
   {
     "codigo": "PADRAG",
@@ -2634,7 +2634,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 19.6,
-    "imagen": "PADRAG"
+    "imagen": "PADRAG.png"
   },
   {
     "codigo": "MA6001",
@@ -2643,7 +2643,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 22.0,
-    "imagen": "MA6001"
+    "imagen": "MA6001.png"
   },
   {
     "codigo": "MA6003",
@@ -2652,7 +2652,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 22.8,
-    "imagen": "MA6003"
+    "imagen": "MA6003.jpg"
   },
   {
     "codigo": "MA6004",
@@ -2661,7 +2661,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 22.8,
-    "imagen": "MA6004"
+    "imagen": "MA6004.jpg"
   },
   {
     "codigo": "MA6006",
@@ -2670,7 +2670,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 22.8,
-    "imagen": "MA6006"
+    "imagen": "MA6006.jpg"
   },
   {
     "codigo": "MA2091-3M",
@@ -2679,7 +2679,7 @@
     "descripcion": "Por par",
     "tallas": "",
     "precio": 10.2,
-    "imagen": "MA2091-3M"
+    "imagen": "MA2091-3M.jpg"
   },
   {
     "codigo": "MA2097",
@@ -2688,7 +2688,7 @@
     "descripcion": "Por par - NIOSH P100",
     "tallas": "",
     "precio": 11.7,
-    "imagen": "MA2097"
+    "imagen": "MA2097.jpg"
   },
   {
     "codigo": "MA5N11",
@@ -2697,7 +2697,7 @@
     "descripcion": "Por par",
     "tallas": "",
     "precio": 5.1,
-    "imagen": "MA5N11"
+    "imagen": "MA5N11.jpg"
   },
   {
     "codigo": "MA501",
@@ -2706,7 +2706,7 @@
     "descripcion": "Por par",
     "tallas": "",
     "precio": 5.75,
-    "imagen": "MA501"
+    "imagen": "MA501.jpg"
   },
   {
     "codigo": "MA502",
@@ -2715,7 +2715,7 @@
     "descripcion": "Por par",
     "tallas": "",
     "precio": 7.7,
-    "imagen": "MA502"
+    "imagen": "MA502.jpg"
   },
   {
     "codigo": "MAAR-7500",
@@ -2724,7 +2724,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 16.8,
-    "imagen": "MAAR-7500"
+    "imagen": "MAAR-7500.jpg"
   },
   {
     "codigo": "MANORTH75002",
@@ -2733,7 +2733,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 16.8,
-    "imagen": "MANORTH75002"
+    "imagen": "MANORTH75002.png"
   },
   {
     "codigo": "MANORTH75003",
@@ -2742,7 +2742,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 16.8,
-    "imagen": "MANORTH75003"
+    "imagen": "MANORTH75003.png"
   },
   {
     "codigo": "MAAR-75004A",
@@ -2751,7 +2751,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 16.8,
-    "imagen": "MAAR-75004A"
+    "imagen": "MAAR-75004A.png"
   },
   {
     "codigo": "MANOR7580P100",
@@ -2760,7 +2760,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 16.8,
-    "imagen": "MANOR7580P100"
+    "imagen": "MANOR7580P100.png"
   },
   {
     "codigo": "PREFN95",
@@ -2769,7 +2769,7 @@
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 9.8,
-    "imagen": "PREFN95"
+    "imagen": "PREFN95.png"
   },
   {
     "codigo": "GU01008",
@@ -2778,7 +2778,7 @@
     "descripcion": "Guante de soldador con matachispa, 16\", marca Intool",
     "tallas": "",
     "precio": 6.74,
-    "imagen": "GU01008"
+    "imagen": "GU01008.png"
   },
   {
     "codigo": "GUNI005",
@@ -2787,7 +2787,7 @@
     "descripcion": "Guante de ingeniero, marca Intool",
     "tallas": "",
     "precio": 3.0900000000000003,
-    "imagen": "GUNI005"
+    "imagen": "GUNI005.png"
   },
   {
     "codigo": "GUIMP-01",
@@ -2796,7 +2796,7 @@
     "descripcion": "Guante contra impacto negro y verde, marca Intool",
     "tallas": "",
     "precio": 9.99,
-    "imagen": "GUIMP-01"
+    "imagen": "GUIMP-01.png"
   },
   {
     "codigo": "GUNR006",
@@ -2805,7 +2805,7 @@
     "descripcion": "Guante anticorte naranja con negro, marca Intool",
     "tallas": "",
     "precio": 1.26,
-    "imagen": "GUNR006"
+    "imagen": "GUNR006.png"
   },
   {
     "codigo": "GUNR007",
@@ -2814,7 +2814,7 @@
     "descripcion": "Guante anticorte azul, marca Intool",
     "tallas": "",
     "precio": 1.15,
-    "imagen": "GUNR007"
+    "imagen": "GUNR007.png"
   },
   {
     "codigo": "GUAN-CAVERO",
@@ -2823,7 +2823,7 @@
     "descripcion": "Guante térmico Cavero, marca Intool",
     "tallas": "",
     "precio": 7.07,
-    "imagen": "GUAN-CAVERO"
+    "imagen": "GUAN-CAVERO.png"
   },
   {
     "codigo": "GU0104",
@@ -2832,7 +2832,7 @@
     "descripcion": "Guante tipo Carolina con puntos PVC",
     "tallas": "",
     "precio": 0.29,
-    "imagen": "GU0104"
+    "imagen": "GU0104.png"
   },
   {
     "codigo": "GU0107",
@@ -2841,7 +2841,7 @@
     "descripcion": "Guante tipo Carolina negro con puntos PVC",
     "tallas": "",
     "precio": 0.29,
-    "imagen": "GU0107"
+    "imagen": "GU0107.png"
   },
   {
     "codigo": "GU0107-1",
@@ -2850,7 +2850,7 @@
     "descripcion": "Guante tipo Carolina negro sin puntos PVC",
     "tallas": "",
     "precio": 0.28,
-    "imagen": "GU0107-1"
+    "imagen": "GU0107-1.png"
   },
   {
     "codigo": "GU01005",
@@ -2859,7 +2859,7 @@
     "descripcion": "Guante de tejido sin punto",
     "tallas": "",
     "precio": 0.27,
-    "imagen": "GU01005"
+    "imagen": "GU01005.png"
   },
   {
     "codigo": "GU01004-3",
@@ -2868,7 +2868,7 @@
     "descripcion": "Guante tipo Carolina con puntos PVC color anaranjado",
     "tallas": "",
     "precio": 0.4,
-    "imagen": "GU01004-3"
+    "imagen": "GU01004-3.png"
   },
   {
     "codigo": "GUN1009",
@@ -2877,7 +2877,7 @@
     "descripcion": "Guante para soldadura argonero, 14\"",
     "tallas": "",
     "precio": 3.4400000000000004,
-    "imagen": "GUN1009"
+    "imagen": "GUN1009.png"
   },
   {
     "codigo": "GUNI001",
@@ -2886,7 +2886,7 @@
     "descripcion": "Guante de ingeniero sencillo",
     "tallas": "",
     "precio": 2.86,
-    "imagen": "GUNI001"
+    "imagen": "GUNI001.png"
   },
   {
     "codigo": "GUNI002",
@@ -2895,7 +2895,7 @@
     "descripcion": "Guante de ingeniero reforzado",
     "tallas": "",
     "precio": 3.0900000000000003,
-    "imagen": "GUNI002"
+    "imagen": "GUNI002.png"
   },
   {
     "codigo": "GUVE509",
@@ -2904,7 +2904,7 @@
     "descripcion": "Guante de neopreno 12\", talla 09, marca Delta",
     "tallas": "",
     "precio": 2.79,
-    "imagen": "GUVE509"
+    "imagen": "GUVE509.png"
   },
   {
     "codigo": "GUN3835",
@@ -2913,7 +2913,7 @@
     "descripcion": "Guante de neopreno 14\"",
     "tallas": "",
     "precio": 2.1500000000000004,
-    "imagen": "GUN3835"
+    "imagen": "GUN3835.png"
   },
   {
     "codigo": "GUN001",
@@ -2922,7 +2922,7 @@
     "descripcion": "Guante de nitrilo tallas 08, 09 y 10",
     "tallas": "",
     "precio": 1.46,
-    "imagen": "GUN001"
+    "imagen": "GUN001.png"
   },
   {
     "codigo": "GUVE846",
@@ -2931,7 +2931,7 @@
     "descripcion": "Guante de nitrilo 18\", marca Delta Plus",
     "tallas": "",
     "precio": 2.95,
-    "imagen": "GUVE846"
+    "imagen": "GUVE846.png"
   },
   {
     "codigo": "GUN01",
@@ -2940,7 +2940,7 @@
     "descripcion": "Guante de nitrilo Boyuan 13\"",
     "tallas": "",
     "precio": 1.22,
-    "imagen": "GUN01"
+    "imagen": "GUN01.png"
   },
   {
     "codigo": "GUN02",
@@ -2949,7 +2949,7 @@
     "descripcion": "Guante de nitrilo Boyuan 18\"",
     "tallas": "",
     "precio": 4.38,
-    "imagen": "GUN02"
+    "imagen": "GUN02.png"
   },
   {
     "codigo": "GUANFRIO",
@@ -2958,7 +2958,7 @@
     "descripcion": "Guante algodón resistente al frío, recubrimiento espuma látex alta abrasión",
     "tallas": "",
     "precio": 1.3699999999999999,
-    "imagen": "GUANFRIO"
+    "imagen": "GUANFRIO.png"
   },
   {
     "codigo": "GUANTI-N",
@@ -2967,7 +2967,7 @@
     "descripcion": "Guante resistente con recubrimiento de nitrilo negro, Intool",
     "tallas": "",
     "precio": 0.96,
-    "imagen": "GUANTI-N"
+    "imagen": "GUANTI-N.png"
   },
   {
     "codigo": "GUVE73OR",
@@ -2976,7 +2976,7 @@
     "descripcion": "Guante algodón y poliéster impregnado con látex anticorte T-08, Delta",
     "tallas": "",
     "precio": 1.46,
-    "imagen": "GUVE73OR"
+    "imagen": "GUVE73OR.png"
   },
   {
     "codigo": "HOTMILL",
@@ -2985,7 +2985,7 @@
     "descripcion": "Guante algodón con forro acolchado para altas temperaturas, 14\"",
     "tallas": "",
     "precio": 2.75,
-    "imagen": "HOTMILL"
+    "imagen": "HOTMILL.png"
   },
   {
     "codigo": "GUDA006",
@@ -2994,7 +2994,7 @@
     "descripcion": "Guante de látex doméstico color amarillo",
     "tallas": "",
     "precio": 1.27,
-    "imagen": "GUDA006"
+    "imagen": "GUDA006.png"
   },
   {
     "codigo": "GU01PAN",
@@ -3003,7 +3003,7 @@
     "descripcion": "Guante para panadero 16\"",
     "tallas": "",
     "precio": 5.74,
-    "imagen": "GU01PAN"
+    "imagen": "GU01PAN.png"
   },
   {
     "codigo": "GU02PAN",
@@ -3012,7 +3012,7 @@
     "descripcion": "Guante para panadero 20\"",
     "tallas": "",
     "precio": 6.29,
-    "imagen": "GU02PAN"
+    "imagen": "GU02PAN.png"
   },
   {
     "codigo": "GU01002-1",
@@ -3021,7 +3021,7 @@
     "descripcion": "Guante de tela y carnaza sencillo",
     "tallas": "",
     "precio": 1.96,
-    "imagen": "GU01002-1"
+    "imagen": "GU01002-1.png"
   },
   {
     "codigo": "GU01005-3",
@@ -3030,7 +3030,7 @@
     "descripcion": "Guante petrolero tipo pistola nacional, modelo 028",
     "tallas": "",
     "precio": 2.6100000000000003,
-    "imagen": "GU01005-3"
+    "imagen": "GU01005-3.png"
   },
   {
     "codigo": "GU01005-2",
@@ -3039,7 +3039,7 @@
     "descripcion": "Guante petrolero importado 029 con refuerzo, Intool",
     "tallas": "",
     "precio": 2.3200000000000003,
-    "imagen": "GU01005-2"
+    "imagen": "GU01005-2.png"
   },
   {
     "codigo": "GU01005-1",
@@ -3048,7 +3048,7 @@
     "descripcion": "Guante petrolero importado 028 tipo pistola, Intool",
     "tallas": "",
     "precio": 2.9,
-    "imagen": "GU01005-1"
+    "imagen": "GU01005-1.png"
   },
   {
     "codigo": "GU01007",
@@ -3057,7 +3057,7 @@
     "descripcion": "Guante todo carnaza 12\" con refuerzo en palma",
     "tallas": "",
     "precio": 2.53,
-    "imagen": "GU01007"
+    "imagen": "GU01007.png"
   },
   {
     "codigo": "GU01007-3",
@@ -3066,7 +3066,7 @@
     "descripcion": "Guante todo carnaza 14\" con refuerzo en palma",
     "tallas": "",
     "precio": 3.0900000000000003,
-    "imagen": "GU01007-3"
+    "imagen": "GU01007-3.png"
   },
   {
     "codigo": "GU01008-11",
@@ -3075,7 +3075,7 @@
     "descripcion": "Guante soldador 16\" con refuerzo en palma y matachispa",
     "tallas": "",
     "precio": 5.9,
-    "imagen": "GU01008-11"
+    "imagen": "GU01008-11.png"
   },
   {
     "codigo": "GU01008-6",
@@ -3084,7 +3084,7 @@
     "descripcion": "Guante soldador 16\" con refuerzo en palma sin matachispa",
     "tallas": "",
     "precio": 5.5,
-    "imagen": "GU01008-6"
+    "imagen": "GU01008-6.png"
   },
   {
     "codigo": "NITRILAZ-T",
@@ -3093,7 +3093,7 @@
     "descripcion": "Guante de nitrilo descartable especial, caja 100 manos",
     "tallas": "",
     "precio": 14.74,
-    "imagen": "NITRILAZ-T"
+    "imagen": "NITRILAZ-T.png"
   },
   {
     "codigo": "GUQ005",
@@ -3102,7 +3102,7 @@
     "descripcion": "Guante de nitrilo descartable, caja 100 manos",
     "tallas": "",
     "precio": 14.74,
-    "imagen": "GUQ005"
+    "imagen": "GUQ005.png"
   },
   {
     "codigo": "GUQ06",
@@ -3111,7 +3111,7 @@
     "descripcion": "Guante nitrilo descartable multipropósito, caja 100 manos",
     "tallas": "",
     "precio": 14.74,
-    "imagen": "GUQ06"
+    "imagen": "GUQ06.png"
   },
   {
     "codigo": "GUQ06N",
@@ -3120,7 +3120,7 @@
     "descripcion": "Guante nitrilo descartable negro multipropósito, caja 100 manos",
     "tallas": "",
     "precio": 14.74,
-    "imagen": "GUQ06N"
+    "imagen": "GUQ06N.png"
   },
   {
     "codigo": "GUNI100",
@@ -3129,7 +3129,7 @@
     "descripcion": "Guante nitrilo azul Yu Chung, talla S, caja 100 unidades",
     "tallas": "",
     "precio": 14.74,
-    "imagen": "GUNI100"
+    "imagen": "GUNI100.png"
   },
   {
     "codigo": "GUNISIN",
@@ -3138,7 +3138,7 @@
     "descripcion": "Guante nitrilo azul sintético tallas M y L, caja 100 unidades",
     "tallas": "",
     "precio": 14.74,
-    "imagen": "GUNISIN"
+    "imagen": "GUNISIN.png"
   },
   {
     "codigo": "GUARCTI-L",
@@ -3147,7 +3147,7 @@
     "descripcion": "Guante nitrilo descartable Arctic Blue talla L, caja 100",
     "tallas": "",
     "precio": 14.74,
-    "imagen": "GUARCTI-L"
+    "imagen": "GUARCTI-L.png"
   },
   {
     "codigo": "GUAZ",
@@ -3156,7 +3156,7 @@
     "descripcion": "Guante nitrilo azul descartable, caja 100 unidades",
     "tallas": "",
     "precio": 5.9,
-    "imagen": "GUAZ"
+    "imagen": "GUAZ.png"
   },
   {
     "codigo": "GUNA",
@@ -3165,7 +3165,7 @@
     "descripcion": "Guante nitrilo anaranjado descartable, caja 50 unidades",
     "tallas": "",
     "precio": 13.48,
-    "imagen": "GUNA"
+    "imagen": "GUNA.png"
   },
   {
     "codigo": "GUV",
@@ -3174,7 +3174,7 @@
     "descripcion": "Guante de vinilo descartable, bulto 10 cajas",
     "tallas": "",
     "precio": 14.74,
-    "imagen": "GUV"
+    "imagen": "GUV.png"
   },
   {
     "codigo": "GUMA-001",
@@ -3183,7 +3183,7 @@
     "descripcion": "Guante para manipulación de alimentos, paquete 100 piezas",
     "tallas": "",
     "precio": 2.95,
-    "imagen": "GUMA-001"
+    "imagen": "GUMA-001.png"
   },
   {
     "codigo": "GUA02",
@@ -3192,7 +3192,7 @@
     "descripcion": "Guante de malla de acero liviano",
     "tallas": "",
     "precio": 66.32,
-    "imagen": "GUA02"
+    "imagen": "GUA02.png"
   },
   {
     "codigo": "GUA01",
@@ -3201,7 +3201,7 @@
     "descripcion": "Guante de malla de acero pesado",
     "tallas": "",
     "precio": 88.42999999999999,
-    "imagen": "GUA01"
+    "imagen": "GUA01.png"
   },
   {
     "codigo": "GUILP3S",
@@ -3210,7 +3210,7 @@
     "descripcion": "Protector guante dieléctrico tallas 11-11.5, Salisbury",
     "tallas": "",
     "precio": 32.31,
-    "imagen": "GUILP3S"
+    "imagen": "GUILP3S.png"
   },
   {
     "codigo": "GUILP4S-14",
@@ -3219,7 +3219,7 @@
     "descripcion": "Protector guante dieléctrico 14\", talla 11, Salisbury",
     "tallas": "",
     "precio": 42.01,
-    "imagen": "GUILP4S-14"
+    "imagen": "GUILP4S-14.png"
   },
   {
     "codigo": "GUDIELEC-36",
@@ -3228,7 +3228,7 @@
     "descripcion": "Guante dieléctrico clase 4, 36000V, Novax, talla 10",
     "tallas": "",
     "precio": 430.1,
-    "imagen": "GUDIELEC-36"
+    "imagen": "GUDIELEC-36.png"
   },
   {
     "codigo": "GUDIELEC-17",
@@ -3237,7 +3237,7 @@
     "descripcion": "Guante dieléctrico clase 2, 17000V, Novax, talla 10",
     "tallas": "",
     "precio": 230.5,
-    "imagen": "GUDIELEC-17"
+    "imagen": "GUDIELEC-17.png"
   },
   {
     "codigo": "GUDIELEC-10",
@@ -3246,7 +3246,7 @@
     "descripcion": "Guante dieléctrico clase 0, 1000V, Novax, talla 10",
     "tallas": "",
     "precio": 85.55999999999999,
-    "imagen": "GUDIELEC-10"
+    "imagen": "GUDIELEC-10.png"
   },
   {
     "codigo": "GUPROT-12",
@@ -3255,7 +3255,7 @@
     "descripcion": "Protector para guante dieléctrico Novax 12\"",
     "tallas": "",
     "precio": 33.76,
-    "imagen": "GUPROT-12"
+    "imagen": "GUPROT-12.png"
   },
   {
     "codigo": "GUPROT-14",
@@ -3264,7 +3264,7 @@
     "descripcion": "Protector para guante dieléctrico Novax 14\"",
     "tallas": "",
     "precio": 33.76,
-    "imagen": "GUPROT-14"
+    "imagen": "GUPROT-14.png"
   },
   {
     "codigo": "HES-32-2",
@@ -3273,7 +3273,7 @@
     "descripcion": "Escalera extensible de 32 peldaños",
     "tallas": "",
     "precio": 1585.48,
-    "imagen": "HES-32-2"
+    "imagen": "HES-32-2.png"
   },
   {
     "codigo": "HES-24-2",
@@ -3282,7 +3282,7 @@
     "descripcion": "Escalera extensible de 24 peldaños",
     "tallas": "",
     "precio": 1189.11,
-    "imagen": "HES-24-2"
+    "imagen": "HES-24-2.png"
   },
   {
     "codigo": "HES-20-2",
@@ -3291,7 +3291,7 @@
     "descripcion": "Escalera extensible de 20 peldaños",
     "tallas": "",
     "precio": 990.93,
-    "imagen": "HES-20-2"
+    "imagen": "HES-20-2.png"
   },
   {
     "codigo": "HES-16-2",
@@ -3300,7 +3300,7 @@
     "descripcion": "Escalera extensible de 16 peldaños",
     "tallas": "",
     "precio": 792.74,
-    "imagen": "HES-16-2"
+    "imagen": "HES-16-2.png"
   },
   {
     "codigo": "HES-04-TC",
@@ -3309,7 +3309,7 @@
     "descripcion": "Escalera tipo tijera de 4 peldaños, uso comercial",
     "tallas": "",
     "precio": 219.33,
-    "imagen": "HES-04-TC"
+    "imagen": "HES-04-TC.png"
   },
   {
     "codigo": "HES-05-TC",
@@ -3318,7 +3318,7 @@
     "descripcion": "Escalera tipo tijera de 5 peldaños, uso comercial",
     "tallas": "",
     "precio": 292.47,
-    "imagen": "HES-05-TC"
+    "imagen": "HES-05-TC.png"
   },
   {
     "codigo": "HES-04-TI",
@@ -3327,7 +3327,7 @@
     "descripcion": "Escalera tipo tijera de 4 peldaños, uso pesado",
     "tallas": "",
     "precio": 387.75,
-    "imagen": "HES-04-TI"
+    "imagen": "HES-04-TI.png"
   },
   {
     "codigo": "HES-05-TI",
@@ -3336,7 +3336,7 @@
     "descripcion": "Escalera tipo tijera de 5 peldaños, uso pesado",
     "tallas": "",
     "precio": 438.7,
-    "imagen": "HES-05-TI"
+    "imagen": "HES-05-TI.png"
   },
   {
     "codigo": "MV002",
@@ -3345,7 +3345,7 @@
     "descripcion": "Veleta de viento 1.32 mts, aro entrada 0.70 mts, aro salida 0.20 mts",
     "tallas": "",
     "precio": 28.1,
-    "imagen": "MV002"
+    "imagen": "MV002.png"
   },
   {
     "codigo": "CADENA",
@@ -3354,7 +3354,7 @@
     "descripcion": "Cadena de PVC, 5.5mm de diámetro, 25 metros de largo",
     "tallas": "",
     "precio": 22.11,
-    "imagen": "CADENA"
+    "imagen": "CADENA.png"
   },
   {
     "codigo": "AFO",
@@ -3363,7 +3363,7 @@
     "descripcion": "Extintor de esfera automática AFO, venta por unidad",
     "tallas": "",
     "precio": 29.48,
-    "imagen": "AFO"
+    "imagen": "AFO.png"
   },
   {
     "codigo": "DUCHA",
@@ -3372,7 +3372,7 @@
     "descripcion": "Ducha y lavajos de emergencia",
     "tallas": "",
     "precio": 434.97,
-    "imagen": "DUCHA"
+    "imagen": "DUCHA.png"
   },
   {
     "codigo": "LAVA-1",
@@ -3381,7 +3381,7 @@
     "descripcion": "Lavajos de emergencia con pedestal",
     "tallas": "",
     "precio": 178.71,
-    "imagen": "LAVA-1"
+    "imagen": "LAVA-1.png"
   },
   {
     "codigo": "KIT-ANTID",
@@ -3390,7 +3390,7 @@
     "descripcion": "Kit de anti-derrame para 8 galones",
     "tallas": "",
     "precio": 127.1,
-    "imagen": "KIT-ANTID"
+    "imagen": "KIT-ANTID.png"
   },
   {
     "codigo": "KIT-ANTID15",
@@ -3399,7 +3399,7 @@
     "descripcion": "Kit de anti-derrame para 15 galones",
     "tallas": "",
     "precio": 203.15,
-    "imagen": "KIT-ANTID15"
+    "imagen": "KIT-ANTID15.png"
   },
   {
     "codigo": "CINSEG001",
@@ -3408,7 +3408,7 @@
     "descripcion": "Cinturón de seguridad para vehículos, 2 puntos, Autofiend",
     "tallas": "",
     "precio": 7.5,
-    "imagen": "CINSEG001"
+    "imagen": "CINSEG001.png"
   },
   {
     "codigo": "SIFRBR",
@@ -3417,7 +3417,7 @@
     "descripcion": "Faja lumbar de seguridad",
     "tallas": "",
     "precio": 11.2,
-    "imagen": "SIFRBR"
+    "imagen": "SIFRBR.png"
   },
   {
     "codigo": "FEV002",
@@ -3426,7 +3426,7 @@
     "descripcion": "Vidrio rectangular claro para careta de soldadura",
     "tallas": "",
     "precio": 0.31,
-    "imagen": "FEV002"
+    "imagen": "FEV002.png"
   },
   {
     "codigo": "FEVO1",
@@ -3435,7 +3435,7 @@
     "descripcion": "Vidrio rectangular oscuro para careta, Nº 10, 11 y 12",
     "tallas": "",
     "precio": 0.35,
-    "imagen": "FEVO1"
+    "imagen": "FEVO1.png"
   },
   {
     "codigo": "TUBOLED",
@@ -3444,7 +3444,7 @@
     "descripcion": "Tubo LED recargable de 12 watts",
     "tallas": "",
     "precio": 16.7,
-    "imagen": "TUBOLED"
+    "imagen": "TUBOLED.png"
   },
   {
     "codigo": "GENE-950",
@@ -3453,7 +3453,7 @@
     "descripcion": "Generador eléctrico diésel, marca Tools, 950 watts",
     "tallas": "",
     "precio": 280.46,
-    "imagen": "GENE-950"
+    "imagen": "GENE-950.png"
   },
   {
     "codigo": "GENE-3500",
@@ -3462,7 +3462,7 @@
     "descripcion": "Generador eléctrico, marca Briggs & Stratton, 3500 watts",
     "tallas": "",
     "precio": 840.13,
-    "imagen": "GENE-3500"
+    "imagen": "GENE-3500.png"
   },
   {
     "codigo": "GENE-12000",
@@ -3471,7 +3471,7 @@
     "descripcion": "Generador eléctrico, marca ipower, 12000 watts",
     "tallas": "",
     "precio": 1279.3,
-    "imagen": "GENE-12000"
+    "imagen": "GENE-12000.png"
   },
   {
     "codigo": "NEMA14-50P",
@@ -3480,7 +3480,7 @@
     "descripcion": "Conector de 50 amperios color amarillo, NEMA 14-50P",
     "tallas": "",
     "precio": 28.1,
-    "imagen": "NEMA14-50P"
+    "imagen": "NEMA14-50P.png"
   },
   {
     "codigo": "ED-304P",
@@ -3489,7 +3489,7 @@
     "descripcion": "Conector de 30 amperios color amarillo, modelo ED-304P",
     "tallas": "",
     "precio": 19.6,
-    "imagen": "ED-304P"
+    "imagen": "ED-304P.png"
   },
   {
     "codigo": "L14-3",
@@ -3498,7 +3498,7 @@
     "descripcion": "Conector de 30 amperios color negro, modelo L14-3",
     "tallas": "",
     "precio": 19.6,
-    "imagen": "L14-3"
+    "imagen": "L14-3.png"
   },
   {
     "codigo": "HE19S107",
@@ -3507,7 +3507,7 @@
     "descripcion": "Broca sierra de perforación 3-5/8\", 92mm, marca Greenlee",
     "tallas": "",
     "precio": 36.4,
-    "imagen": "HE19S107"
+    "imagen": "HE19S107.png"
   },
   {
     "codigo": "HE18P191",
@@ -3516,7 +3516,7 @@
     "descripcion": "Ponchador de 2 pulgadas, marca Greenlee",
     "tallas": "",
     "precio": 240.4,
-    "imagen": "HE18P191"
+    "imagen": "HE18P191.png"
   },
   {
     "codigo": "HE739BB",
@@ -3525,7 +3525,7 @@
     "descripcion": "Ponchador de 3 pulgadas, marca Greenlee",
     "tallas": "",
     "precio": 510.08,
-    "imagen": "HE739BB"
+    "imagen": "HE739BB.png"
   },
   {
     "codigo": "HE18P156",
@@ -3534,7 +3534,7 @@
     "descripcion": "Ponchador de 4 pulgadas, marca Greenlee",
     "tallas": "",
     "precio": 546.1,
-    "imagen": "HE18P156"
+    "imagen": "HE18P156.png"
   },
   {
     "codigo": "HE18F002",
@@ -3543,7 +3543,7 @@
     "descripcion": "Flejadora Band-Ti, modelo COO169",
     "tallas": "",
     "precio": 196.02,
-    "imagen": "HE18F002"
+    "imagen": "HE18F002.png"
   },
   {
     "codigo": "HE18Y000",
@@ -3552,7 +3552,7 @@
     "descripcion": "Prensas mecánicas, marca Burndy, modelo MD7",
     "tallas": "",
     "precio": 675.2,
-    "imagen": "HE18Y000"
+    "imagen": "HE18Y000.png"
   },
   {
     "codigo": "HE18S075",
@@ -3561,7 +3561,7 @@
     "descripcion": "Tensor tipo rana, modelo 1625-20",
     "tallas": "",
     "precio": 196.2,
-    "imagen": "HE18S075"
+    "imagen": "HE18S075.png"
   },
   {
     "codigo": "HE18S090",
@@ -3570,7 +3570,7 @@
     "descripcion": "Tensor tipo rana, modelo 1656-40",
     "tallas": "",
     "precio": 421.4,
-    "imagen": "HE18S090"
+    "imagen": "HE18S090.png"
   },
   {
     "codigo": "HE18P125",
@@ -3579,7 +3579,7 @@
     "descripcion": "Crimpadora, marca Greelee Tools, modelo K09-2GL",
     "tallas": "",
     "precio": 398.15,
-    "imagen": "HE18P125"
+    "imagen": "HE18P125.png"
   },
   {
     "codigo": "HEGT-11",
@@ -3588,7 +3588,7 @@
     "descripcion": "Detector de voltaje, marca Greenlee, modelo GT-11",
     "tallas": "",
     "precio": 56.1,
-    "imagen": "HEGT-11"
+    "imagen": "HEGT-11.png"
   },
   {
     "codigo": "HE04T437",
@@ -3597,7 +3597,7 @@
     "descripcion": "Probador de voltaje, marca Klein Tools, modelo 69115",
     "tallas": "",
     "precio": 56.1,
-    "imagen": "HE04T437"
+    "imagen": "HE04T437.png"
   },
   {
     "codigo": "HE02005",
@@ -3606,7 +3606,7 @@
     "descripcion": "Detector de voltaje AC, marca Amprobe",
     "tallas": "",
     "precio": 69.89,
-    "imagen": "HE02005"
+    "imagen": "HE02005.png"
   },
   {
     "codigo": "HE81611",
@@ -3615,7 +3615,7 @@
     "descripcion": "Pértiga de gatillo, modelo 81611",
     "tallas": "",
     "precio": 520.1,
-    "imagen": "HE81611"
+    "imagen": "HE81611.png"
   },
   {
     "codigo": "LIJ",
@@ -3624,7 +3624,7 @@
     "descripcion": "Lija disponible en grano 360, 240, 120 y 100",
     "tallas": "",
     "precio": 0.44,
-    "imagen": "LIJ"
+    "imagen": "LIJ.png"
   },
   {
     "codigo": "ESM-6",
@@ -3633,7 +3633,7 @@
     "descripcion": "Disco de corte 4-1/2 por 1/8 pulgadas",
     "tallas": "",
     "precio": 1.82,
-    "imagen": "ESM-6"
+    "imagen": "ESM-6.png"
   },
   {
     "codigo": "ESM-13",
@@ -3642,7 +3642,7 @@
     "descripcion": "Disco de esmerilar 7 por 1/4 pulgadas",
     "tallas": "",
     "precio": 5.21,
-    "imagen": "ESM-13"
+    "imagen": "ESM-13.png"
   },
   {
     "codigo": "ESM-10",
@@ -3651,7 +3651,7 @@
     "descripcion": "Disco de corte 7 por 1/8 pulgadas",
     "tallas": "",
     "precio": 3.64,
-    "imagen": "ESM-10"
+    "imagen": "ESM-10.png"
   },
   {
     "codigo": "ESM-14",
@@ -3660,7 +3660,7 @@
     "descripcion": "Disco de tronzadora 14 por 1/8 pulgadas",
     "tallas": "",
     "precio": 9.77,
-    "imagen": "ESM-14"
+    "imagen": "ESM-14.png"
   },
   {
     "codigo": "ESM-A",
@@ -3669,7 +3669,7 @@
     "descripcion": "Disco lija flap 4-1/2 x 7/8\", grano A100, A80 y A60",
     "tallas": "",
     "precio": 3.69,
-    "imagen": "ESM-A"
+    "imagen": "ESM-A.png"
   },
   {
     "codigo": "ESM-B",
@@ -3678,7 +3678,7 @@
     "descripcion": "Disco de lija para esmerilar 4\", grano P16, P24 y P36",
     "tallas": "",
     "precio": 0.65,
-    "imagen": "ESM-B"
+    "imagen": "ESM-B.png"
   },
   {
     "codigo": "ESM-C",
@@ -3687,7 +3687,7 @@
     "descripcion": "Disco de fibra 7 x 7/8 pulgadas, grano P16 y P36",
     "tallas": "",
     "precio": 1.82,
-    "imagen": "ESM-C"
+    "imagen": "ESM-C.png"
   },
   {
     "codigo": "FE11003",
@@ -3696,7 +3696,7 @@
     "descripcion": "Bulto de trapo de tela, colores variados, 20 kg",
     "tallas": "",
     "precio": 24.5,
-    "imagen": "FE11003"
+    "imagen": "FE11003.png"
   },
   {
     "codigo": "FE11004",
@@ -3705,7 +3705,7 @@
     "descripcion": "Trapo esterilizado blanco, 20 kg",
     "tallas": "",
     "precio": 58.95,
-    "imagen": "FE11004"
+    "imagen": "FE11004.png"
   },
   {
     "codigo": "ENVGEL-2",
@@ -3714,7 +3714,7 @@
     "descripcion": "Gel antibacterial, presentación de 1000cc",
     "tallas": "",
     "precio": 3.92,
-    "imagen": "ENVGEL-2"
+    "imagen": "ENVGEL-2.png"
   },
   {
     "codigo": "ALCOHOL-99",
@@ -3723,7 +3723,7 @@
     "descripcion": "Galón de alcohol al 99%, 3.75 litros",
     "tallas": "",
     "precio": 28.49,
-    "imagen": "ALCOHOL-99"
+    "imagen": "ALCOHOL-99.png"
   },
   {
     "codigo": "GEL-ANTIB",
@@ -3732,7 +3732,7 @@
     "descripcion": "Gel antibacterial por galón, 3.75 litros",
     "tallas": "",
     "precio": 6.68,
-    "imagen": "GEL-ANTIB"
+    "imagen": "GEL-ANTIB.png"
   },
   {
     "codigo": "ATO-10",
@@ -3741,7 +3741,7 @@
     "descripcion": "Envase plástico de 60cc tipo rociador",
     "tallas": "",
     "precio": 1.27,
-    "imagen": "ATO-10"
+    "imagen": "ATO-10.png"
   },
   {
     "codigo": "ATO-04",
@@ -3750,7 +3750,7 @@
     "descripcion": "Envase plástico sensitive, 200cc",
     "tallas": "",
     "precio": 0.84,
-    "imagen": "ATO-04"
+    "imagen": "ATO-04.png"
   },
   {
     "codigo": "ATO-02",
@@ -3759,7 +3759,7 @@
     "descripcion": "Envase plástico cuello pico, 240cc",
     "tallas": "",
     "precio": 0.84,
-    "imagen": "ATO-02"
+    "imagen": "ATO-02.png"
   },
   {
     "codigo": "ATO-07",
@@ -3768,7 +3768,7 @@
     "descripcion": "Envase plástico cosmético, 240cc",
     "tallas": "",
     "precio": 0.84,
-    "imagen": "ATO-07"
+    "imagen": "ATO-07.png"
   },
   {
     "codigo": "ATO-03",
@@ -3777,7 +3777,7 @@
     "descripcion": "Envase plástico cilíndrico, 400cc",
     "tallas": "",
     "precio": 0.98,
-    "imagen": "ATO-03"
+    "imagen": "ATO-03.png"
   },
   {
     "codigo": "ATO-01",
@@ -3786,7 +3786,7 @@
     "descripcion": "Envase plástico cosmético oval, 400cc",
     "tallas": "",
     "precio": 0.98,
-    "imagen": "ATO-01"
+    "imagen": "ATO-01.png"
   },
   {
     "codigo": "ATO-05",
@@ -3795,7 +3795,7 @@
     "descripcion": "Envase plástico liso, 500cc",
     "tallas": "",
     "precio": 0.98,
-    "imagen": "ATO-05"
+    "imagen": "ATO-05.png"
   },
   {
     "codigo": "ATO-08",
@@ -3804,7 +3804,7 @@
     "descripcion": "Envase plástico liso cuadrado, 1000cc",
     "tallas": "",
     "precio": 0.98,
-    "imagen": "ATO-08"
+    "imagen": "ATO-08.png"
   },
   {
     "codigo": "TAP-04",
@@ -3813,7 +3813,7 @@
     "descripcion": "Tapa de rosca blanca, 28mm",
     "tallas": "",
     "precio": 0.42,
-    "imagen": "TAP-04"
+    "imagen": "TAP-04.png"
   },
   {
     "codigo": "TAP-01",
@@ -3822,7 +3822,7 @@
     "descripcion": "Tapa push para envases plásticos",
     "tallas": "",
     "precio": 0.42,
-    "imagen": "TAP-01"
+    "imagen": "TAP-01.png"
   },
   {
     "codigo": "TAP-02",
@@ -3831,7 +3831,7 @@
     "descripcion": "Tapa atomizadora para envases plásticos",
     "tallas": "",
     "precio": 0.84,
-    "imagen": "TAP-02"
+    "imagen": "TAP-02.png"
   },
   {
     "codigo": "TAP-03",
@@ -3840,7 +3840,7 @@
     "descripcion": "Tapa tigger para envases plásticos",
     "tallas": "",
     "precio": 1.27,
-    "imagen": "TAP-03"
+    "imagen": "TAP-03.png"
   },
   {
     "codigo": "TAP-05",
@@ -3849,7 +3849,7 @@
     "descripcion": "Tapa disc top para envases plásticos",
     "tallas": "",
     "precio": 0.55,
-    "imagen": "TAP-05"
+    "imagen": "TAP-05.png"
   },
   {
     "codigo": "DESINF-PER",
@@ -3858,7 +3858,7 @@
     "descripcion": "Desinfectante a base de peróxido, 3.75 litros",
     "tallas": "",
     "precio": 11.9,
-    "imagen": "DESINF-PER"
+    "imagen": "DESINF-PER.png"
   },
   {
     "codigo": "KIT-SANIST",
@@ -3867,7 +3867,7 @@
     "descripcion": "Kit de desinfección Sanistep",
     "tallas": "",
     "precio": 70.1,
-    "imagen": "KIT-SANIST"
+    "imagen": "KIT-SANIST.png"
   },
   {
     "codigo": "PISTODJ9528",
@@ -3876,7 +3876,7 @@
     "descripcion": "Pistola rociadora nano atomizer, modelo DJ9528",
     "tallas": "",
     "precio": 56.1,
-    "imagen": "PISTODJ9528"
+    "imagen": "PISTODJ9528.png"
   },
   {
     "codigo": "TERDIKAN JBX-195",
@@ -3885,7 +3885,7 @@
     "descripcion": "Termómetro infrarrojo, marcas Dikang, Berrcom o Everwell",
     "tallas": "",
     "precio": 56.1,
-    "imagen": "TERDIKAN JBX-195"
+    "imagen": "TERDIKAN JBX-195.png"
   },
   {
     "codigo": "OXI0301",
@@ -3894,7 +3894,7 @@
     "descripcion": "Oxímetro de pulso digital",
     "tallas": "",
     "precio": 1.4,
-    "imagen": "OXI0301"
+    "imagen": "OXI0301.png"
   },
   {
     "codigo": "SGTUN136 UN137",
@@ -3903,7 +3903,7 @@
     "descripcion": "Gorro para enfermería en celeste y blanco, paquetes de 100 unidades",
     "tallas": "",
     "precio": 6.53,
-    "imagen": "SGTUN136 UN137"
+    "imagen": "SGTUN136 UN137.png"
   },
   {
     "codigo": "PADRAG",
@@ -3912,7 +3912,7 @@
     "descripcion": "Filtro pad N95 para máscara Xplore",
     "tallas": "",
     "precio": 0.22,
-    "imagen": "PADRAG"
+    "imagen": "PADRAG.png"
   },
   {
     "codigo": "MA6001",
@@ -3921,7 +3921,7 @@
     "descripcion": "Cartucho para ciertos vapores orgánicos, marca 3M, modelo 6001",
     "tallas": "",
     "precio": 0.31,
-    "imagen": "MA6001"
+    "imagen": "MA6001.png"
   },
   {
     "codigo": "SEÑALES",
@@ -3930,7 +3930,7 @@
     "descripcion": "Señales: Peligro Riesgo Físico, Info Gral, Fuego, Obligación, Emergencia, Prohibiciones",
     "tallas": "",
     "precio": 4.75,
-    "imagen": "SEÑALES"
+    "imagen": "SEÑALES.png"
   },
   {
     "codigo": "TOALLIN ROSAL",
@@ -3939,7 +3939,7 @@
     "descripcion": "Toallín multiusos Rosal Towels, 80 hojas, bulto de 20 unidades. ($1.29 por unidad)",
     "tallas": "",
     "precio": 25.8,
-    "imagen": "TOALLIN ROSAL"
+    "imagen": "TOALLIN ROSAL.png"
   },
   {
     "codigo": "DON TOALLIN",
@@ -3948,7 +3948,7 @@
     "descripcion": "Toalla intercalada Don Toallin, 180 hojas",
     "tallas": "",
     "precio": 23.94,
-    "imagen": "DON TOALLIN"
+    "imagen": "DON TOALLIN.jpeg"
   },
   {
     "codigo": "TOALLIN PV",
@@ -3957,7 +3957,7 @@
     "descripcion": "Toallas para mano PV Sanitisu, 6 rollos de 100 metros",
     "tallas": "",
     "precio": 23.94,
-    "imagen": "TOALLIN PV"
+    "imagen": "TOALLIN PV.jpeg"
   },
   {
     "codigo": "SERVILLETA Z PEQ",
@@ -3966,7 +3966,7 @@
     "descripcion": "Servilleta Z pequeña, 160 unidades en poly, bulto de 20. ($1.28 por unidad)",
     "tallas": "",
     "precio": 25.6,
-    "imagen": "SERVILLETA Z PEQ"
+    "imagen": "SERVILLETA Z PEQ.jpeg"
   },
   {
     "codigo": "SERVILLETA Z GRA",
@@ -3975,7 +3975,7 @@
     "descripcion": "Servilleta Z grande, 160 unidades en poly, bulto de 16. ($2.26 por unidad)",
     "tallas": "",
     "precio": 36.16,
-    "imagen": "SERVILLETA Z GRA"
+    "imagen": "SERVILLETA Z GRA.jpeg"
   },
   {
     "codigo": "SERVILLETA PV",
@@ -3984,7 +3984,7 @@
     "descripcion": "Servilleta PV Household Napkins, 120 unidades, bulto de 12. ($2.44 por unidad)",
     "tallas": "",
     "precio": 29.28,
-    "imagen": "SERVILLETA PV"
+    "imagen": "SERVILLETA PV.jpeg"
   },
   {
     "codigo": "PAPEL HIGIENICO PV",
@@ -3993,7 +3993,7 @@
     "descripcion": "Papel higiénico PV Sanitisu Jumbo, 4 rollos de 9\", 250 metros",
     "tallas": "",
     "precio": 10.45,
-    "imagen": "PAPEL HIGIENICO PV"
+    "imagen": "PAPEL HIGIENICO PV.jpeg"
   },
   {
     "codigo": "BANDERA",
@@ -4002,7 +4002,7 @@
     "descripcion": "Bandera de Venezuela, medidas 1.47 x 0.95 metros",
     "tallas": "",
     "precio": 19.5,
-    "imagen": "BANDERA"
+    "imagen": "BANDERA.png"
   },
   {
     "codigo": "HE18D447",
@@ -4011,7 +4011,7 @@
     "descripcion": "Destornillador Klein Tools, modelo 620-6",
     "tallas": "",
     "precio": 28.1,
-    "imagen": "HE18D447"
+    "imagen": "HE18D447.png"
   },
   {
     "codigo": "HE18D448",
@@ -4020,7 +4020,7 @@
     "descripcion": "Destornillador Klein Tools, modelo 621-8",
     "tallas": "",
     "precio": 25.2,
-    "imagen": "HE18D448"
+    "imagen": "HE18D448.png"
   },
   {
     "codigo": "FE15559",
@@ -4029,7 +4029,7 @@
     "descripcion": "Llave tipo T, marca Tuper, modelo All-T-8P",
     "tallas": "",
     "precio": 69.98,
-    "imagen": "FE15559"
+    "imagen": "FE15559.png"
   },
   {
     "codigo": "HETOR1/2",
@@ -4038,7 +4038,7 @@
     "descripcion": "Torquímetro de 1/2 pulgada",
     "tallas": "",
     "precio": 139.58,
-    "imagen": "HETOR1/2"
+    "imagen": "HETOR1-2.png"
   },
   {
     "codigo": "HE65968",
@@ -4047,7 +4047,7 @@
     "descripcion": "Destornillador Stanley, modelo 65-968",
     "tallas": "",
     "precio": 14.1,
-    "imagen": "HE65968"
+    "imagen": "HE65968.png"
   },
   {
     "codigo": "HE18D969",
@@ -4056,7 +4056,7 @@
     "descripcion": "Destornillador Stanley, modelo 65-969",
     "tallas": "",
     "precio": 12.74,
-    "imagen": "HE18D969"
+    "imagen": "HE18D969.png"
   },
   {
     "codigo": "HE18D389",
@@ -4065,7 +4065,7 @@
     "descripcion": "Destornillador Stanley, modelo 65-970",
     "tallas": "",
     "precio": 14.56,
-    "imagen": "HE18D389"
+    "imagen": "HE18D389.png"
   },
   {
     "codigo": "HE18D569",
@@ -4074,7 +4074,7 @@
     "descripcion": "Destornillador Stanley, modelo 65-971",
     "tallas": "",
     "precio": 18.2,
-    "imagen": "HE18D569"
+    "imagen": "HE18D569.png"
   },
   {
     "codigo": "FE60003",
@@ -4083,7 +4083,7 @@
     "descripcion": "Destornillador negro Stanley, 3/16 pulgadas",
     "tallas": "",
     "precio": 3.64,
-    "imagen": "FE60003"
+    "imagen": "FE60003.png"
   },
   {
     "codigo": "UNRD-1217",
@@ -4092,7 +4092,7 @@
     "descripcion": "Destornillador negro Stanley, 7/32 pulgadas",
     "tallas": "",
     "precio": 5.6,
-    "imagen": "UNRD-1217"
+    "imagen": "UNRD-1217.png"
   },
   {
     "codigo": "FE315",
@@ -4101,7 +4101,7 @@
     "descripcion": "Cisalla 18 pulgadas, marca Best Value",
     "tallas": "",
     "precio": 55.98,
-    "imagen": "FE315"
+    "imagen": "FE315.png"
   },
   {
     "codigo": "FE42024",
@@ -4110,7 +4110,7 @@
     "descripcion": "Winche Mini-Mula, capacidad 2 toneladas",
     "tallas": "",
     "precio": 84.01,
-    "imagen": "FE42024"
+    "imagen": "FE42024.png"
   },
   {
     "codigo": "UNLLAVE#16",
@@ -4119,7 +4119,7 @@
     "descripcion": "Llave combinada Stanley, 16 pulgadas",
     "tallas": "",
     "precio": 11.9,
-    "imagen": "UNLLAVE#16"
+    "imagen": "UNLLAVE#16.png"
   },
   {
     "codigo": "FE86839",
@@ -4128,7 +4128,7 @@
     "descripcion": "Llave combinada Stanley, 3/4 pulgadas",
     "tallas": "",
     "precio": 12.74,
-    "imagen": "FE86839"
+    "imagen": "FE86839.png"
   },
   {
     "codigo": "HE86864",
@@ -4137,7 +4137,7 @@
     "descripcion": "Llave combinada Stanley, 19 pulgadas",
     "tallas": "",
     "precio": 12.74,
-    "imagen": "HE86864"
+    "imagen": "HE86864.png"
   },
   {
     "codigo": "FE86841",
@@ -4146,7 +4146,7 @@
     "descripcion": "Llave combinada Stanley, 7/8 pulgadas",
     "tallas": "",
     "precio": 16.38,
-    "imagen": "FE86841"
+    "imagen": "FE86841.png"
   },
   {
     "codigo": "FE86842",
@@ -4155,7 +4155,7 @@
     "descripcion": "Llave combinada Stanley, 15/16 pulgadas",
     "tallas": "",
     "precio": 36.4,
-    "imagen": "FE86842"
+    "imagen": "FE86842.png"
   },
   {
     "codigo": "FE86625",
@@ -4164,7 +4164,7 @@
     "descripcion": "Llave combinada Stanley, 25 pulgadas",
     "tallas": "",
     "precio": 40.04,
-    "imagen": "FE86625"
+    "imagen": "FE86625.png"
   },
   {
     "codigo": "HE86872",
@@ -4173,6 +4173,6 @@
     "descripcion": "Llave combinada Stanley, 27 pulgadas",
     "tallas": "",
     "precio": 44.81,
-    "imagen": "HE86872"
+    "imagen": "HE86872.png"
   }
 ]

@@ -504,9 +504,9 @@ function productCardHTML(p) {
     }
   }
   const imgEl = p.imagen
-    ? `<img src="images/${p.imagen}.png" alt="${p.nombre}" loading="lazy"
+    ? `<img src="images/${p.imagen}" alt="${p.nombre}" loading="lazy"
          onload="this.classList.add('loaded')"
-         onerror="this.src='images/${p.imagen}.jpg'; this.onerror=function(){this.classList.add('error');};">`
+         onerror="this.classList.add('error')">`
     : '';
   // Escape for onclick attr
   const safe = JSON.stringify(p).replace(/\\/g,'\\\\').replace(/"/g,'&quot;');
@@ -586,7 +586,7 @@ function renderCartItems() {
   let h=`<div class="cart-table-wrap"><table class="cart-table"><thead><tr><th>Img</th><th>Producto</th><th>Cód.</th><th>Talla</th><th>Cant.</th><th>Precio</th><th>Subtotal</th><th></th></tr></thead><tbody>`;
   cart.forEach((item,idx) => {
     const sub = item.precio*item.cantidad;
-    const imgTag = item.imagen ? `<img class="cart-table-img" src="images/${item.imagen}.png" alt="" onerror="this.src='images/${item.imagen}.jpg'; this.onerror=function(){this.style.display='none'};">` : '—';
+    const imgTag = item.imagen ? `<img class="cart-table-img" src="images/${item.imagen}" alt="" onerror="this.style.display='none'">` : '—';
     h+=`<tr>
       <td>${imgTag}</td>
       <td><strong>${item.nombre}</strong></td>
