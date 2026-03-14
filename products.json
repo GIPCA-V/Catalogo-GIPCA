@@ -2261,7 +2261,7 @@
   {
     "codigo": "MA8210",
     "nombre": "Mascarilla 2 Liga 3M 8210",
-    "categoria": "Mascarillas N95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 1.61,
@@ -2270,7 +2270,7 @@
   {
     "codigo": "MA1860",
     "nombre": "Mascarilla 1860 3M",
-    "categoria": "Mascarillas N95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad - Precio sujeto a cambio",
     "tallas": "",
     "precio": 1.76,
@@ -2279,7 +2279,7 @@
   {
     "codigo": "MAN95-B",
     "nombre": "Mascarilla Makrite 9600-N95 Blanca Intool",
-    "categoria": "Mascarillas N95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja de 20 und - Facturar por unidad",
     "tallas": "",
     "precio": 0.68,
@@ -2288,7 +2288,7 @@
   {
     "codigo": "MAN95OV",
     "nombre": "Mascarilla Makrite 9600-N95OV Negra Intool",
-    "categoria": "Mascarillas N95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja de 10 und - Facturar por unidad",
     "tallas": "",
     "precio": 1.22,
@@ -2297,7 +2297,7 @@
   {
     "codigo": "MAN95V",
     "nombre": "Mascarilla Makrite 9600V-N95 c/Válvula Blanca",
-    "categoria": "Mascarillas N95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 1.02,
@@ -2306,7 +2306,7 @@
   {
     "codigo": "MAN95VOV",
     "nombre": "Mascarilla Makrite 9600-N95VOV c/Válvula Negra",
-    "categoria": "Mascarillas N95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 1.44,
@@ -2315,7 +2315,7 @@
   {
     "codigo": "MAKN95-N",
     "nombre": "Mascarilla KN95 Negra Imp. Intool",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 7.37,
@@ -2324,7 +2324,7 @@
   {
     "codigo": "MAKN95-B",
     "nombre": "Mascarilla KN95 Blanca Imp. Intool",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 7.07,
@@ -2333,7 +2333,7 @@
   {
     "codigo": "MASNITTA-B",
     "nombre": "Mascarilla Blanca N95 Nitta",
-    "categoria": "Mascarillas N95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 0.37,
@@ -2342,7 +2342,7 @@
   {
     "codigo": "MASC-NIOSH",
     "nombre": "Mascarilla N95 L-188 NIOSH",
-    "categoria": "Mascarillas N95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja de 20 unidades",
     "tallas": "",
     "precio": 4.32,
@@ -2396,7 +2396,7 @@
   {
     "codigo": "MAKN95-02",
     "nombre": "Mascarilla KN95 Hink3N Diversos Colores",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Detal caja de 10 unidades",
     "tallas": "",
     "precio": 8.39,
@@ -2423,7 +2423,7 @@
   {
     "codigo": "MASKF94",
     "nombre": "Mascarilla KF94 Color Negra/Blanca",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja de 20 unidades",
     "tallas": "",
     "precio": 7.07,
@@ -2432,7 +2432,7 @@
   {
     "codigo": "MAKF94-C",
     "nombre": "Mascarilla KF94 Guoyan 5 Colores",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja de 50 und - Detal",
     "tallas": "",
     "precio": 19.65,
@@ -2441,7 +2441,7 @@
   {
     "codigo": "MAKF94N",
     "nombre": "Mascarilla KF94 Negra Guoyan",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja de 50 und - Detal",
     "tallas": "",
     "precio": 19.65,
@@ -2450,7 +2450,7 @@
   {
     "codigo": "MAKN95R",
     "nombre": "Mascarilla KN95 3D Mask Color Rojo (Detal)",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja de 10 unidades",
     "tallas": "",
     "precio": 7.7,
@@ -2459,7 +2459,7 @@
   {
     "codigo": "MAKN95C",
     "nombre": "Mascarilla KN95 3D Mask Color Celeste (Detal)",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja de 10 unidades",
     "tallas": "",
     "precio": 7.7,
@@ -2468,7 +2468,7 @@
   {
     "codigo": "MASCKN95KIDS",
     "nombre": "Mascarilla KN95 Kids",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja de 20 unidades",
     "tallas": "",
     "precio": 12.59,
@@ -2477,7 +2477,7 @@
   {
     "codigo": "MAKN95-01",
     "nombre": "Mascarilla KN95 Jiuyu Nano-Tech (Detal)",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja de 20 unidades",
     "tallas": "",
     "precio": 28.04,
@@ -2486,7 +2486,7 @@
   {
     "codigo": "MATRUCK-1",
     "nombre": "Mascarilla Doble Liga Truck KN95",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja de 20 unidades",
     "tallas": "",
     "precio": 27.9,
@@ -2495,7 +2495,7 @@
   {
     "codigo": "MAKN95B-3",
     "nombre": "Mascarilla KN95 Blanca",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja 20 unidades",
     "tallas": "",
     "precio": 9.8,
@@ -2504,7 +2504,7 @@
   {
     "codigo": "MAKN95B",
     "nombre": "Mascarilla KN95 Guoyan Blanca (Detal)",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Detal caja de 20 unidades",
     "tallas": "",
     "precio": 9.8,
@@ -2513,7 +2513,7 @@
   {
     "codigo": "MASKN95-S",
     "nombre": "Mascarilla KN95 Blanca Self Mask",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "10 unidades",
     "tallas": "",
     "precio": 5.6,
@@ -2522,7 +2522,7 @@
   {
     "codigo": "MAKN95B-2",
     "nombre": "Mascarilla KN95 Blanca Huamawe FFP2 NR",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Caja 12 unidades",
     "tallas": "",
     "precio": 4.48,
@@ -2531,7 +2531,7 @@
   {
     "codigo": "MAKN95P",
     "nombre": "Mascarilla KN95 Panda Blanca con Válvula",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Detal caja de 5 unidades",
     "tallas": "",
     "precio": 3.51,
@@ -2540,7 +2540,7 @@
   {
     "codigo": "MAKN95H",
     "nombre": "Mascarilla KN95 con Válvula Haolu",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Detal caja de 5 unidades",
     "tallas": "",
     "precio": 3.51,
@@ -2549,7 +2549,7 @@
   {
     "codigo": "MAKN95N",
     "nombre": "Mascarilla KN95 Guoyan Negro (Detal)",
-    "categoria": "Mascarillas KN95",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Detal caja de 20 unidades",
     "tallas": "",
     "precio": 6.99,
@@ -2558,7 +2558,7 @@
   {
     "codigo": "PMAKN95-DEP",
     "nombre": "Mascarilla Deportiva",
-    "categoria": "Mascarilla Deportiva",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad, Rosada/Negra/Gris/Roja/Azul",
     "tallas": "",
     "precio": 3.67,
@@ -2567,7 +2567,7 @@
   {
     "codigo": "MAKN95-DEP",
     "nombre": "Mascarilla Deportiva Combo (1 Mask + 3 Filtros)",
-    "categoria": "Mascarilla Deportiva",
+    "categoria": "Protección Respiratoria",
     "descripcion": "A partir de 12 unidades",
     "tallas": "",
     "precio": 4.42,
@@ -2576,7 +2576,7 @@
   {
     "codigo": "PREKN95",
     "nombre": "Filtro de Mascarilla Deportiva",
-    "categoria": "Mascarilla Deportiva",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 0.36,
@@ -2585,7 +2585,7 @@
   {
     "codigo": "MA6200",
     "nombre": "Respirador Media Cara Modelo 6200 3M",
-    "categoria": "Respiradores",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 24.5,
@@ -2594,7 +2594,7 @@
   {
     "codigo": "MA6800",
     "nombre": "Respirador Cara Completa Mod 6800",
-    "categoria": "Respiradores",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 190.0,
@@ -2603,7 +2603,7 @@
   {
     "codigo": "MA7051",
     "nombre": "Máscara Media Cara 7051",
-    "categoria": "Respiradores",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 26.0,
@@ -2612,7 +2612,7 @@
   {
     "codigo": "MAAR8000",
     "nombre": "Respirador Marca Arseg",
-    "categoria": "Respiradores",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 14.0,
@@ -2621,7 +2621,7 @@
   {
     "codigo": "MA6738351",
     "nombre": "Cartucho Vapores Orgánicos y Gases Ácidos Drager",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 21.1,
@@ -2630,7 +2630,7 @@
   {
     "codigo": "PADRAG",
     "nombre": "Filtro Pad N95 p/Máscara Xplore",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 19.6,
@@ -2639,7 +2639,7 @@
   {
     "codigo": "MA6001",
     "nombre": "Cartucho p/Ciertos Vapores Orgánicos 3M 6001",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 22.0,
@@ -2648,7 +2648,7 @@
   {
     "codigo": "MA6003",
     "nombre": "Cartucho Vap. Org. Gases Ácidos 3M 6003",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 22.8,
@@ -2657,7 +2657,7 @@
   {
     "codigo": "MA6004",
     "nombre": "Cartucho p/Amoniaco y Metilamina 3M 6004",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 22.8,
@@ -2666,7 +2666,7 @@
   {
     "codigo": "MA6006",
     "nombre": "Cartucho Ciertos Vapores Orgánicos y Ácidos 3M 6006",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 22.8,
@@ -2675,7 +2675,7 @@
   {
     "codigo": "MA2091-3M",
     "nombre": "Filtro 2091 p/Partículas 3M P100",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por par",
     "tallas": "",
     "precio": 10.2,
@@ -2684,7 +2684,7 @@
   {
     "codigo": "MA2097",
     "nombre": "Filtro 2097 Vapores Orgánicos",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por par - NIOSH P100",
     "tallas": "",
     "precio": 11.7,
@@ -2693,7 +2693,7 @@
   {
     "codigo": "MA5N11",
     "nombre": "Prefiltro 5N11 3M",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por par",
     "tallas": "",
     "precio": 5.1,
@@ -2702,7 +2702,7 @@
   {
     "codigo": "MA501",
     "nombre": "Retenedor de Prefiltro 5N11 3M",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por par",
     "tallas": "",
     "precio": 5.75,
@@ -2711,7 +2711,7 @@
   {
     "codigo": "MA502",
     "nombre": "Retenedor 502 5N11 3M",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por par",
     "tallas": "",
     "precio": 7.7,
@@ -2720,7 +2720,7 @@
   {
     "codigo": "MAAR-7500",
     "nombre": "Cartucho North 7500-3",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 16.8,
@@ -2729,7 +2729,7 @@
   {
     "codigo": "MANORTH75002",
     "nombre": "Cartucho North 75002L",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 16.8,
@@ -2738,7 +2738,7 @@
   {
     "codigo": "MANORTH75003",
     "nombre": "Cartucho North 75003L",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 16.8,
@@ -2747,7 +2747,7 @@
   {
     "codigo": "MAAR-75004A",
     "nombre": "Cartucho North 75004L",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 16.8,
@@ -2756,7 +2756,7 @@
   {
     "codigo": "MANOR7580P100",
     "nombre": "Cartucho North 7580 P100",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 16.8,
@@ -2765,7 +2765,7 @@
   {
     "codigo": "PREFN95",
     "nombre": "Filtro North 7506 N95",
-    "categoria": "Cartuchos y Filtros",
+    "categoria": "Protección Respiratoria",
     "descripcion": "Por unidad",
     "tallas": "",
     "precio": 9.8,
@@ -3206,7 +3206,7 @@
   {
     "codigo": "GUILP3S",
     "nombre": "Protector Guante Dieléctrico 11-11.5 Salisbury",
-    "categoria": "Protección Dieléctrica",
+    "categoria": "Protección para Manos",
     "descripcion": "Protector guante dieléctrico tallas 11-11.5, Salisbury",
     "tallas": "",
     "precio": 32.31,
@@ -3215,7 +3215,7 @@
   {
     "codigo": "GUILP4S-14",
     "nombre": "Protector Guante Dielec. Salis 14\" T-11 Salisbury",
-    "categoria": "Protección Dieléctrica",
+    "categoria": "Protección para Manos",
     "descripcion": "Protector guante dieléctrico 14\", talla 11, Salisbury",
     "tallas": "",
     "precio": 42.01,
@@ -3224,7 +3224,7 @@
   {
     "codigo": "GUDIELEC-36",
     "nombre": "Guante Dieléctrico Clase 4 36000V Novax T-10",
-    "categoria": "Protección Dieléctrica",
+    "categoria": "Protección para Manos",
     "descripcion": "Guante dieléctrico clase 4, 36000V, Novax, talla 10",
     "tallas": "",
     "precio": 430.1,
@@ -3233,7 +3233,7 @@
   {
     "codigo": "GUDIELEC-17",
     "nombre": "Guante Dieléctrico Clase 2 17000V Novax T-10",
-    "categoria": "Protección Dieléctrica",
+    "categoria": "Protección para Manos",
     "descripcion": "Guante dieléctrico clase 2, 17000V, Novax, talla 10",
     "tallas": "",
     "precio": 230.5,
@@ -3242,7 +3242,7 @@
   {
     "codigo": "GUDIELEC-10",
     "nombre": "Guante Dieléctrico Clase 0 1000V Novax T-10",
-    "categoria": "Protección Dieléctrica",
+    "categoria": "Protección para Manos",
     "descripcion": "Guante dieléctrico clase 0, 1000V, Novax, talla 10",
     "tallas": "",
     "precio": 85.55999999999999,
@@ -3251,7 +3251,7 @@
   {
     "codigo": "GUPROT-12",
     "nombre": "Protector p/Guante Dielec. Novax 12\"",
-    "categoria": "Protección Dieléctrica",
+    "categoria": "Protección para Manos",
     "descripcion": "Protector para guante dieléctrico Novax 12\"",
     "tallas": "",
     "precio": 33.76,
@@ -3260,7 +3260,7 @@
   {
     "codigo": "GUPROT-14",
     "nombre": "Protector p/Guante Dielec. Novax 14\"",
-    "categoria": "Protección Dieléctrica",
+    "categoria": "Protección para Manos",
     "descripcion": "Protector para guante dieléctrico Novax 14\"",
     "tallas": "",
     "precio": 33.76,

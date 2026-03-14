@@ -81,7 +81,7 @@ header { background: linear-gradient(135deg, var(--azul) 0%, var(--azul-medio) 1
 .product-card { background: white; border-radius: var(--border-radius); box-shadow: var(--sombra); overflow: hidden; display: flex; flex-direction: column; transition: transform 0.25s, box-shadow 0.25s; }
 .product-card:hover { transform: translateY(-4px); box-shadow: var(--sombra-hover); }
 .product-img { width: 100%; aspect-ratio: 1; background: linear-gradient(135deg, var(--gris-bg) 0%, #dde4ea 100%); display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; }
-.product-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s; display: block; }
+.product-img img { width: 100%; height: 100%; object-fit: contain; padding: 8px; transition: transform 0.3s; display: block; background: white; }
 .product-card:hover .product-img img { transform: scale(1.05); }
 .product-img .cat-icon { font-size: 3rem; opacity: 0.35; position: absolute; }
 .product-img img.loaded + .cat-icon { display: none; }
