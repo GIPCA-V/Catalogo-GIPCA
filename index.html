@@ -496,7 +496,21 @@ function productCardHTML(p) {
   let tallasOpts = '';
   if (hasTallas) {
     const t = p.tallas.trim();
-    if (/^\d+-\d+$/.test(t)) {
+    // Clothing size ranges like XS-3XL, S/M/L/XL/2XL
+    const CLOTHING_SIZES = ['XS','S','M','L','XL','2XL','3XL','4XL','XXL','XXXL'];
+    const isClothingRange = /^(XS|S|M|L|XL|2XL|3XL|4XL|XXL)-(.+)$/i.test(t);
+    const isNumericRange = /^\d+-\d+$/.test(t);
+    if (isClothingRange) {
+      // Expand XS-3XL into individual sizes
+      const parts = t.toUpperCase().split('-');
+      const start = CLOTHING_SIZES.indexOf(parts[0]);
+      const end = CLOTHING_SIZES.indexOf(parts[parts.length-1]);
+      if (start !== -1 && end !== -1) {
+        for (let i=start; i<=end; i++) tallasOpts += `<option value="${CLOTHING_SIZES[i]}">${CLOTHING_SIZES[i]}</option>`;
+      } else {
+        tallasOpts += `<option value="${t}">${t}</option>`;
+      }
+    } else if (isNumericRange) {
       const [mn,mx] = t.split('-').map(Number);
       for (let i=mn; i<=mx; i++) tallasOpts += `<option value="${i}">${i}</option>`;
     } else {
