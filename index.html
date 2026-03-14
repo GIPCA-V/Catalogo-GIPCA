@@ -504,7 +504,7 @@ function productCardHTML(p) {
     }
   }
   const imgEl = p.imagen
-    ? `<img src="images/${p.imagen}" alt="${p.nombre}" loading="lazy"
+    ? `<img src="Images/${p.imagen}" alt="${p.nombre}" loading="lazy"
          onload="this.classList.add('loaded')"
          onerror="this.classList.add('error')">`
     : '';
@@ -586,7 +586,7 @@ function renderCartItems() {
   let h=`<div class="cart-table-wrap"><table class="cart-table"><thead><tr><th>Img</th><th>Producto</th><th>Cód.</th><th>Talla</th><th>Cant.</th><th>Precio</th><th>Subtotal</th><th></th></tr></thead><tbody>`;
   cart.forEach((item,idx) => {
     const sub = item.precio*item.cantidad;
-    const imgTag = item.imagen ? `<img class="cart-table-img" src="images/${item.imagen}" alt="" onerror="this.style.display='none'">` : '—';
+    const imgTag = item.imagen ? `<img class="cart-table-img" src="Images/${item.imagen}" alt="" onerror="this.style.display='none'">` : '—';
     h+=`<tr>
       <td>${imgTag}</td>
       <td><strong>${item.nombre}</strong></td>
